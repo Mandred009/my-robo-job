@@ -50,7 +50,40 @@
   </div>
 
   <main id="panel-all" role="tabpanel" aria-labelledby="tab-all" aria-live="polite"></main>
-  <main id="panel-companies" role="tabpanel" aria-labelledby="tab-companies" aria-live="polite" hidden></main>
+
+  <main id="panel-companies" role="tabpanel" aria-labelledby="tab-companies" aria-live="polite" hidden>
+    <div class="watchlist-toolbar">
+      <button type="button" id="gh-connect-btn" class="ghost-btn">⚙ Connect GitHub</button>
+      <span id="gh-status" class="gh-status">not connected — additions won't save</span>
+    </div>
+
+    <div class="gh-connect-panel" id="gh-connect-panel" hidden>
+      <p class="gh-connect-help">
+        Paste a fine-grained GitHub token scoped to <em>just this repo</em>, with only
+        <strong>Contents: Read and write</strong> permission. It's saved in this browser only
+        (<code>localStorage</code>) and sent nowhere but api.github.com.
+        <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Create one →</a>
+      </p>
+      <input type="password" id="gh-token-input" placeholder="Personal access token" autocomplete="off">
+      <div class="gh-connect-row">
+        <input type="text" id="gh-owner-input" placeholder="GitHub username (auto-detected)">
+        <input type="text" id="gh-repo-input" placeholder="Repo name (auto-detected)">
+      </div>
+      <div class="gh-connect-actions">
+        <button type="button" id="gh-connect-save">Save</button>
+        <button type="button" id="gh-connect-forget" class="ghost-btn">Forget token</button>
+      </div>
+    </div>
+
+    <form id="add-company-form" class="add-company-form">
+      <input type="text" id="add-company-name" placeholder="Company name" required>
+      <input type="text" id="add-company-url" placeholder="Careers URL (optional)">
+      <input type="text" id="add-company-note" placeholder="Note (optional)">
+      <button type="submit">Add</button>
+    </form>
+
+    <div id="company-list"></div>
+  </main>
 
   <footer>
     <p>Rebuilds automatically once a day via GitHub Actions — nothing to run by hand. Scan logic is in <code>scripts/scan_jobs.py</code>.</p>

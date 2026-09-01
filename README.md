@@ -102,9 +102,9 @@ those are the ones that won't silently degrade.
   current matches float to the top.
 
 Editing `data/watchlist.txt` is the whole workflow for "I want to
-personally track this company" — open the file in GitHub's web editor, add
-a line, commit. No Python, no redeploy, nothing else to touch. Format is
-one company per line:
+personally track this company." You can do it two ways — through the site
+itself (see below) or by hand — but either way the format is one company
+per line:
 
 ```
 Company Name | careers URL (optional) | note (optional)
@@ -116,6 +116,35 @@ company — it doesn't cause the company to get scanned; matching against
 `data/jobs.json` is purely by name. If you want a watchlist company's
 postings to actually show up automatically (not just as a fallback link),
 it also needs to be one of the scanned sources — see the next section.
+
+## Adding companies from the site itself
+
+The **My companies** tab has an "Add" form right on the page, so day-to-day
+list maintenance doesn't require opening GitHub at all. Under the hood it
+writes straight to `data/watchlist.txt` via GitHub's API, because a GitHub
+Pages site can't run its own backend to save anything — that's also why it
+needs a one-time authentication step:
+
+1. Click **⚙ Connect GitHub** on the My companies tab.
+2. Follow the link to create a **fine-grained personal access token** —
+   scope it to just this one repository, with only **Contents: Read and
+   write** permission checked, and give it an expiration date.
+3. Paste the token in. Owner/repo are auto-filled from the page's own URL
+   (override them if you're on a custom domain instead of the default
+   `*.github.io` one), then click Save.
+
+The token is stored in that browser's `localStorage` only — never written
+into the site's code or the repo, never sent anywhere but
+`api.github.com` from your own browser. For a personal, single-user tool
+that's a reasonable trade-off; just don't paste in a broader-scoped token
+than you need, and hit "Forget token" if you're ever on a shared machine.
+
+Once connected, submitting the form does a get-current-file →
+append-or-update-the-line → write-it-back round trip and re-renders
+immediately — no waiting for a scan or a redeploy. Each company row also
+gets a small **✕** to remove it the same way. Editing `data/watchlist.txt`
+by hand through GitHub's web editor still works exactly as before if you'd
+rather skip the token setup — the form is a convenience, not a requirement.
 
 ## Adding or removing scanned companies
 
@@ -153,9 +182,11 @@ skipped as unparsed.
 ```
 index.html              the page (two tabs: all postings, my companies)
 style.css                styling
-app.js                   fetches jobs.json + watchlist.txt and renders both tabs
+app.js                   fetches jobs.json + watchlist.txt, renders both tabs,
+                         and writes back to watchlist.txt via GitHub's API
 data/jobs.json            the current scan results (overwritten daily)
-data/watchlist.txt        companies you're personally tracking — edit freely
+data/watchlist.txt        companies you're personally tracking — edit via
+                         the site's "Add" form or by hand
 scripts/scan_jobs.py      the scanner
 .github/workflows/daily-scan.yml   the daily schedule
 ```
