@@ -1,0 +1,38 @@
+# Robotics Job Radar — companies you're personally tracking.
+#
+# One company per line: Company Name | careers URL (optional) | note (optional)
+# - Lines starting with # are ignored.
+# - Blank lines are ignored.
+# - The careers URL is only used as a fallback link when the scanner currently
+#   has zero matches for that company — otherwise its actual open postings
+#   (pulled from data/jobs.json) are shown instead.
+# - Matching against scan results is by company name, case-insensitive. If a
+#   company here isn't one of the directly-scanned sources (see README) and
+#   doesn't get picked up by the broad-net trackers either, it'll just show
+#   "no matches yet" with the careers link — that's expected, not a bug.
+#
+# Edit this file directly (GitHub's web editor is fine) whenever you want to
+# add or drop a company. No code changes needed — it's read fresh by the page.
+
+Anduril Industries | https://job-boards.greenhouse.io/andurilindustries | defense & public-safety robotics
+Skild AI | https://skild.ai/career | manipulation / physical AI
+Apptronik | https://apptronik.com/careers | humanoid robotics
+Kodiak Robotics | https://job-boards.greenhouse.io/kodiak | autonomy / AV, adjacent
+Capstan Medical | https://capstanmedical.com/careers/ | surgical robotics — your co-op
+Physical Intelligence | https://www.pi.website/join-us | manipulation / physical AI research
+GrayMatter Robotics | https://graymatter-robotics.com/careers | manipulation robotics, some defense-adjacent work
+NVIDIA | https://www.nvidia.com/en-us/research/robotics/ | manipulation research (Seattle Robotics Lab / GEAR)
+Medtronic | https://www.medtronic.com/en-us/our-company/careers/early-careers.html | surgical robotics
+GE Aerospace | https://www.geaerospace.com/careers | aerospace, defense-adjacent
+Johnson & Johnson | https://www.jnj.com/careers | surgical robotics (MedTech)
+Philips | https://www.usa.philips.com/a-w/careers | medical devices
+Figure AI | https://www.figure.ai/careers | humanoid robotics
+Boston Dynamics | https://bostondynamics.com/careers/ | humanoid & legged robotics
+Agility Robotics | https://agilityrobotics.com/careers | humanoid robotics
+1X Technologies | https://www.1x.tech/careers | humanoid robotics
+Unitree Robotics | https://www.unitree.com/careers | legged robotics — built on their D1 arm before
+Toyota Research Institute | https://www.tri.global/careers | manipulation research, diffusion policy / LBMs
+Intuitive Surgical | https://careers.intuitive.com | surgical robotics — RISE new-grad program
+Vicarious Surgical | https://www.vicarioussurgical.com/careers | surgical robotics — flagged: NYSE delisting notice, Mar 2026
+Shield AI | https://shield.ai/careers | defense robotics
+Mach Industries | https://www.mach.com/careers | defense robotics

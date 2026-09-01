@@ -1,0 +1,137 @@
+{
+  "generated_at": "2026-08-31T18:00:00Z",
+  "jobs": [
+    {
+      "id": "seed-anduril-early-career-swe",
+      "company": "Anduril Industries",
+      "title": "2027 Early Career Software Engineer",
+      "location": "Costa Mesa, CA",
+      "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5162263007",
+      "category": "defense_public_safety",
+      "level": "entry",
+      "source": "greenhouse",
+      "posted_at": null,
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "seed-anduril-robotics-new-grad",
+      "company": "Anduril Industries",
+      "title": "Robotics Software Engineer - New Grad",
+      "location": "Costa Mesa, CA",
+      "url": "https://builtin.com/job/engineer/robotics-software-engineer-new-grad/271941",
+      "category": "defense_public_safety",
+      "level": "entry",
+      "source": "manual",
+      "posted_at": null,
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "seed-anduril-swe-intern-2027",
+      "company": "Anduril Industries",
+      "title": "2027 Software Engineer Intern",
+      "location": "Costa Mesa, CA",
+      "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007",
+      "category": "defense_public_safety",
+      "level": "entry",
+      "source": "greenhouse",
+      "posted_at": null,
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "seed-graymatter-ai-research-intern",
+      "company": "GrayMatter Robotics",
+      "title": "AI Research Intern: Foundation Models",
+      "location": "Carson, CA",
+      "url": "https://jobs.ashbyhq.com/graymatter-robotics/dea0f08d-ebf5-4e55-b9cb-e6302014f429",
+      "category": "defense_public_safety",
+      "level": "entry",
+      "source": "ashby",
+      "posted_at": null,
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "seed-skild-robotics-app-engineer",
+      "company": "Skild AI",
+      "title": "Robotics Application Engineer",
+      "location": "San Francisco / San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/5228768008",
+      "category": "manipulation_research",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": null,
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "seed-skild-deployment-testing",
+      "company": "Skild AI",
+      "title": "Robotics Engineer, Deployment & Testing",
+      "location": "San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/4136369008",
+      "category": "manipulation_research",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": null,
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "seed-pi-robotics-research-engineer",
+      "company": "Physical Intelligence",
+      "title": "Robotics Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/physicalintelligence/e4301617-e5fb-413d-bc41-41a2d5e6b67e",
+      "category": "manipulation_research",
+      "level": "unspecified",
+      "source": "ashby",
+      "posted_at": null,
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "seed-nvidia-research-scientist-new-grad",
+      "company": "NVIDIA",
+      "title": "Research Scientist, Robotics Research - New College Grad",
+      "location": "Seattle, WA",
+      "url": "https://jobs.nvidia.com/careers/job/893392824102",
+      "category": "manipulation_research",
+      "level": "entry",
+      "source": "manual",
+      "posted_at": null,
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "seed-apptronik-lead-manipulation",
+      "company": "Apptronik",
+      "title": "Lead Software Engineer - Dexterous Manipulation",
+      "location": "Austin, TX",
+      "url": "https://job-boards.greenhouse.io/apptronik/jobs/5825048004",
+      "category": "humanoid_legged",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": null,
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "seed-capstan-senior-swe",
+      "company": "Capstan Medical",
+      "title": "Senior Software Engineer",
+      "location": "Santa Cruz, CA",
+      "url": "https://jobs.lever.co/capstan-medical/27310095-f0b0-4df5-8f80-99ba57761682",
+      "category": "medical_surgical",
+      "level": "experienced",
+      "source": "lever",
+      "posted_at": null,
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "seed-medtronic-swe-intern-2027",
+      "company": "Medtronic",
+      "title": "Software Engineering Intern - Summer 2027",
+      "location": "Multiple US locations",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Software-Engineering-Intern---Summer-2027_R73630-1",
+      "category": "medical_surgical",
+      "level": "entry",
+      "source": "workday",
+      "posted_at": null,
+      "first_seen": "2026-08-31"
+    }
+  ]
+}

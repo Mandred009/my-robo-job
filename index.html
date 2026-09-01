@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Robotics Job Radar</title>
+  <meta name="description" content="Daily-updated tracker of new-grad and internship openings across manipulation research, humanoid robotics, surgical robotics, and defense robotics.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="scan-line" aria-hidden="true"></div>
+
+  <header class="hud">
+    <div class="hud-title">
+      <h1>Robotics Job Radar</h1>
+      <p class="hud-sub">Manipulation research&ensp;·&ensp;humanoid &amp; legged robotics&ensp;·&ensp;surgical robotics&ensp;·&ensp;defense &amp; public-safety robotics</p>
+    </div>
+    <div class="hud-stats">
+      <div class="stat">
+        <span class="stat-value" id="stat-total">–</span>
+        <span class="stat-label">open matches</span>
+      </div>
+      <div class="stat">
+        <span class="stat-value" id="stat-new">–</span>
+        <span class="stat-label">new since last scan</span>
+      </div>
+      <div class="stat">
+        <span class="stat-value" id="stat-scan">–</span>
+        <span class="stat-label">last scan (UTC)</span>
+      </div>
+    </div>
+  </header>
+
+  <div class="controls">
+    <input type="search" id="search" placeholder="Filter by company, title, or location…" aria-label="Filter postings">
+    <select id="level-filter" aria-label="Filter by level">
+      <option value="all">All levels</option>
+      <option value="entry">New grad / intern</option>
+      <option value="unspecified">Unspecified</option>
+      <option value="experienced">Experienced</option>
+    </select>
+  </div>
+
+  <div class="tabs" role="tablist">
+    <button class="tab active" id="tab-all" role="tab" aria-selected="true" aria-controls="panel-all">All postings</button>
+    <button class="tab" id="tab-companies" role="tab" aria-selected="false" aria-controls="panel-companies">My companies</button>
+  </div>
+
+  <main id="panel-all" role="tabpanel" aria-labelledby="tab-all" aria-live="polite"></main>
+  <main id="panel-companies" role="tabpanel" aria-labelledby="tab-companies" aria-live="polite" hidden></main>
+
+  <footer>
+    <p>Rebuilds automatically once a day via GitHub Actions — nothing to run by hand. Scan logic is in <code>scripts/scan_jobs.py</code>.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
