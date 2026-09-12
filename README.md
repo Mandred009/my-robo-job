@@ -60,14 +60,16 @@ Simplify), not something publicly open. This gets close to that for free:
   to early-career-only so they don't flood the page. These are companies
   I already knew belonged in your list, hand-configured with an explicit
   category — the most reliable tier, but bounded by what I thought to add.
-- **Broad-net sources** — the script also pulls the raw data behind two
-  actively-maintained, crowd-sourced trackers (SimplifyJobs'
-  `New-Grad-Positions` and `Summer2027-Internships` repos on GitHub, updated
-  by a bot roughly every 30 minutes from postings the community submits
-  across hundreds of companies) and filters *that* for the same specialty
-  keywords. This is what catches a robotics startup neither of us has heard
-  of yet — it inherits their scanning reach instead of me hand-listing every
-  company. Their category gets *guessed* from the title/company text
+- **Broad-net sources** — the script also pulls the raw data behind
+  SimplifyJobs' actively-maintained, crowd-sourced `New-Grad-Positions`
+  tracker on GitHub (updated by a bot roughly every 30 minutes from
+  postings the community submits across hundreds of companies) and filters
+  *that* for the same specialty keywords. This is what catches a robotics
+  startup neither of us has heard of yet — it inherits their scanning reach
+  instead of me hand-listing every company. (SimplifyJobs also runs a
+  companion internships tracker, deliberately not pulled here — every entry
+  in it is an internship, which the internship filter below would strip
+  out entirely anyway.) Category gets *guessed* from the title/company text
   (labeled "via SimplifyJobs..." in the job row) rather than hand-assigned,
   so it's occasionally rougher than the curated tier — treat a surprising
   category there as a hint to double check, not gospel.
@@ -78,6 +80,17 @@ Simplify), not something publicly open. This gets close to that for free:
   `data/watchlist.txt` and surface on the **My companies** tab instead —
   see below.
 - A posting is badged **NEW** if it first appeared in the most recent scan.
+- **Internships and co-ops are excluded everywhere** (title matched against
+  `\b(intern|internship|co-?op)\b`, word-boundary so it doesn't false-positive
+  on things like "international") — every source only contributes full-time
+  postings, entry-level or otherwise.
+- **Postings older than 7 days drop out automatically.** Age is judged by
+  the posting's own posted date where the source provides one, falling back
+  to the date this scanner first saw it if not. A posting with no date
+  signal at all is kept rather than hidden — an unverifiable date is a
+  weaker reason to hide something than a confirmed stale one. Change
+  `MAX_AGE_DAYS` near the top of `scripts/scan_jobs.py` if you want a
+  different window.
 
 **Being upfront about the broad-net tier:** the SimplifyJobs `listings.json`
 path the script points at is a community-known convention, not an

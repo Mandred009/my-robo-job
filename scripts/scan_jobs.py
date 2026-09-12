@@ -23,6 +23,7 @@ Design notes:
 
 import hashlib
 import json
+import re
 import sys
 import time
 import urllib.request
@@ -93,12 +94,10 @@ AGGREGATOR_SOURCES = [
         "display": "SimplifyJobs · New-Grad-Positions",
         "url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json",
     },
-    {
-        "label": "simplifyjobs-internships",
-        "display": "SimplifyJobs · Summer2027-Internships",
-        "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
-    },
 ]
+# Note: SimplifyJobs also runs a Summer2027-Internships tracker, deliberately
+# left out here — every entry in it is an internship by definition, so with
+# internships excluded below it would just contribute zero rows for nothing.
 
 # Companies with no public job-board API (Figure AI, Boston Dynamics, Agility
 # Robotics, 1X, Unitree, Toyota Research Institute, Intuitive Surgical,
@@ -119,9 +118,8 @@ SPECIALTY_KEYWORDS = [
 ]
 
 LEVEL_KEYWORDS_ENTRY = [
-    "new grad", "university grad", "college grad", "intern", "internship",
-    "co-op", "coop", "entry level", "entry-level", "early career", "early-career",
-    "rise program", "rotational", "2027", "graduate program",
+    "new grad", "university grad", "college grad", "entry level", "entry-level",
+    "early career", "early-career", "rise program", "rotational", "graduate program",
 ]
 
 LEVEL_KEYWORDS_SENIOR = [
@@ -129,10 +127,22 @@ LEVEL_KEYWORDS_SENIOR = [
     "manager", "iii", " ii ",
 ]
 
+# Word-boundary matching so this doesn't false-positive on things like
+# "international" — a plain substring check on "intern" would.
+INTERNSHIP_PATTERN = re.compile(r"\b(intern|internship|co-?op)\b", re.IGNORECASE)
+
+# Postings older than this (by posted date, falling back to when we first
+# saw them) drop out of the feed entirely — see within_freshness_window().
+MAX_AGE_DAYS = 7
+
 
 def matches_specialty(title: str) -> bool:
     t = title.lower()
     return any(k in t for k in SPECIALTY_KEYWORDS)
+
+
+def is_internship(title: str) -> bool:
+    return bool(INTERNSHIP_PATTERN.search(title))
 
 
 def classify_level(title: str) -> str:
@@ -142,6 +152,22 @@ def classify_level(title: str) -> str:
     if any(k in t for k in LEVEL_KEYWORDS_SENIOR):
         return "experienced"
     return "unspecified"
+
+
+def within_freshness_window(job: dict, today: str) -> bool:
+    """Keep a job if its posted date (or, failing that, the date we first
+    saw it) is within MAX_AGE_DAYS of today. Jobs with no date at all on
+    either field are kept rather than dropped — we can't verify their age,
+    and silently hiding them would be worse than showing an unverified one."""
+    ref = job.get("posted_at") or job.get("first_seen")
+    if not ref:
+        return True
+    try:
+        ref_date = datetime.strptime(ref[:10], "%Y-%m-%d").date()
+        today_date = datetime.strptime(today, "%Y-%m-%d").date()
+    except ValueError:
+        return True
+    return (today_date - ref_date).days <= MAX_AGE_DAYS
 
 
 def guess_category(company: str, title: str) -> str:
@@ -155,6 +181,7 @@ def guess_category(company: str, title: str) -> str:
     if any(k in text for k in ["humanoid", "legged", "quadruped", "bipedal", "exoskeleton"]):
         return "humanoid_legged"
     return "manipulation_research"
+
 
 
 # ---------------------------------------------------------------------------
@@ -190,7 +217,7 @@ def fetch_greenhouse(company: dict) -> list[dict]:
     out = []
     for j in payload.get("jobs", []):
         title = j.get("title", "")
-        if not matches_specialty(title):
+        if not matches_specialty(title) or is_internship(title):
             continue
         loc = (j.get("location") or {}).get("name", "")
         out.append({
@@ -213,7 +240,7 @@ def fetch_lever(company: dict) -> list[dict]:
     out = []
     for j in payload:
         title = j.get("text", "")
-        if not matches_specialty(title):
+        if not matches_specialty(title) or is_internship(title):
             continue
         loc = ((j.get("categories") or {}).get("location")) or ""
         posted = None
@@ -240,7 +267,7 @@ def fetch_ashby(company: dict) -> list[dict]:
     out = []
     for j in payload.get("jobs", []):
         title = j.get("title", "")
-        if not matches_specialty(title):
+        if not matches_specialty(title) or is_internship(title):
             continue
         loc = j.get("locationName") or j.get("location") or ""
         out.append({
@@ -272,12 +299,14 @@ def fetch_workday(company: dict) -> list[dict]:
             title = j.get("title", "")
             path = j.get("externalPath", "")
             job_id = path or title
-            if job_id in seen_ids or not matches_specialty(title):
+            if job_id in seen_ids or not matches_specialty(title) or is_internship(title):
                 continue
             level = classify_level(title)
             if level != "entry":
                 # Corporate boards are huge — only keep clearly entry/early-career
-                # postings plus anything unspecified-but-freshly-titled "2027".
+                # postings plus anything unspecified-but-freshly-titled "2027"
+                # (e.g. "Software Engineer, Class of 2027"). Internships are
+                # already excluded above, so this can't let one back in.
                 if "2027" not in title.lower():
                     continue
             seen_ids.add(job_id)
@@ -339,9 +368,8 @@ def fetch_aggregator(source: dict) -> list[dict]:
         if is_active is False:
             continue
 
-        if not matches_specialty(title):
+        if not matches_specialty(title) or is_internship(title):
             continue
-
         locations = _get(e, "locations", "location", default="")
         if isinstance(locations, list):
             locations = ", ".join(str(loc) for loc in locations)
@@ -407,6 +435,12 @@ def main():
     for j in jobs:
         dedup[j["id"]] = j
     jobs = list(dedup.values())
+
+    before_age_filter = len(jobs)
+    jobs = [j for j in jobs if within_freshness_window(j, today)]
+    dropped_for_age = before_age_filter - len(jobs)
+    if dropped_for_age:
+        print(f"[info] dropped {dropped_for_age} posting(s) older than {MAX_AGE_DAYS} days", file=sys.stderr)
 
     jobs.sort(key=lambda j: (j["category"], j["level"] != "entry", j["company"], j["title"]))
 

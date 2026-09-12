@@ -80,6 +80,10 @@ a:focus-visible, input:focus-visible, select:focus-visible {
   font-size: 13px;
   max-width: 46ch;
 }
+.hud-sub-note {
+  margin-top: 6px;
+  color: var(--amber);
+}
 .hud-stats {
   display: flex;
   gap: 28px;
