@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T18:21:26Z",
+  "generated_at": "2026-09-22T17:22:49Z",
   "jobs": [
     {
       "id": "greenhouse-andurilindustries-5185089007",
@@ -10,7 +10,7 @@
       "category": "defense_public_safety",
       "level": "entry",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -22,7 +22,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -34,7 +34,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -46,7 +46,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -70,20 +70,8 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-13"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5234512007",
-      "company": "Anduril Industries",
-      "title": "Controls Engineer, Manufacturing Automation ",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5234512007?gh_jid=5234512007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-09-18",
-      "first_seen": "2026-09-19"
     },
     {
       "id": "greenhouse-andurilindustries-5234541007",
@@ -94,7 +82,19 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
+      "first_seen": "2026-09-19"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5234512007",
+      "company": "Anduril Industries",
+      "title": "Controls Engineer, Manufacturing Automation ",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5234512007?gh_jid=5234512007",
+      "category": "defense_public_safety",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -106,7 +106,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -118,7 +118,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -130,7 +130,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -142,7 +142,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -154,7 +154,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -166,7 +166,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -178,7 +178,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-20",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-13"
     },
     {
@@ -238,7 +238,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -286,7 +286,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -298,32 +298,8 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
-      "first_seen": "2026-09-18"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5235461007",
-      "company": "Anduril Industries",
-      "title": "Mission Autonomy Lead",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5235461007?gh_jid=5235461007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-09-20",
-      "first_seen": "2026-09-19"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5197631007",
-      "company": "Anduril Industries",
-      "title": "Mission Operations Product Manager, Group 5 Mission Autonomy",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5197631007?gh_jid=5197631007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
       "posted_at": "2026-09-21",
-      "first_seen": "2026-09-13"
+      "first_seen": "2026-09-18"
     },
     {
       "id": "greenhouse-andurilindustries-5217951007",
@@ -331,6 +307,18 @@
       "title": "Mission Operations Product Manager, Group 5 Mission Autonomy",
       "location": "Washington, District of Columbia, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5217951007?gh_jid=5217951007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-09-21",
+      "first_seen": "2026-09-13"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5197631007",
+      "company": "Anduril Industries",
+      "title": "Mission Operations Product Manager, Group 5 Mission Autonomy",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5197631007?gh_jid=5197631007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -346,7 +334,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -358,7 +346,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -370,7 +358,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -394,7 +382,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-20",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-13"
     },
     {
@@ -406,7 +394,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-20",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-13"
     },
     {
@@ -418,7 +406,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -430,7 +418,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-18"
     },
     {
@@ -442,7 +430,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -454,7 +442,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -466,7 +454,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -478,7 +466,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -487,18 +475,6 @@
       "title": "Robotics Software Engineer",
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136146007?gh_jid=5136146007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-09-21",
-      "first_seen": "2026-09-13"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5179580007",
-      "company": "Anduril Industries",
-      "title": "Robotics Software Engineer",
-      "location": "Boston, Massachusetts, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5179580007?gh_jid=5179580007",
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
@@ -518,16 +494,16 @@
       "first_seen": "2026-09-13"
     },
     {
-      "id": "greenhouse-andurilindustries-5078772007",
+      "id": "greenhouse-andurilindustries-5179580007",
       "company": "Anduril Industries",
-      "title": "Robotics Software Engineer ",
-      "location": "Atlanta, Georgia, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5078772007?gh_jid=5078772007",
+      "title": "Robotics Software Engineer",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5179580007?gh_jid=5179580007",
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
-      "first_seen": "2026-09-19"
+      "posted_at": "2026-09-21",
+      "first_seen": "2026-09-13"
     },
     {
       "id": "greenhouse-andurilindustries-4968127007",
@@ -538,7 +514,19 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
+      "first_seen": "2026-09-19"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5078772007",
+      "company": "Anduril Industries",
+      "title": "Robotics Software Engineer ",
+      "location": "Atlanta, Georgia, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5078772007?gh_jid=5078772007",
+      "category": "defense_public_safety",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -550,7 +538,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -562,7 +550,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -634,7 +622,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -658,7 +646,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -670,7 +658,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -682,7 +670,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-13"
     },
     {
@@ -694,7 +682,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -718,20 +706,8 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5234563007",
-      "company": "Anduril Industries",
-      "title": "Senior Controls Engineer, Manufacturing Automation",
-      "location": "Ashville, Ohio, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5234563007?gh_jid=5234563007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-09-18",
-      "first_seen": "2026-09-13"
     },
     {
       "id": "greenhouse-andurilindustries-5234573007",
@@ -742,20 +718,20 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-13"
     },
     {
-      "id": "greenhouse-andurilindustries-5234542007",
+      "id": "greenhouse-andurilindustries-5234563007",
       "company": "Anduril Industries",
-      "title": "Senior Controls Engineer, Manufacturing Automation ",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5234542007?gh_jid=5234542007",
+      "title": "Senior Controls Engineer, Manufacturing Automation",
+      "location": "Ashville, Ohio, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5234563007?gh_jid=5234563007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
-      "first_seen": "2026-09-19"
+      "posted_at": "2026-09-21",
+      "first_seen": "2026-09-13"
     },
     {
       "id": "greenhouse-andurilindustries-5234534007",
@@ -766,7 +742,19 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
+      "first_seen": "2026-09-19"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5234542007",
+      "company": "Anduril Industries",
+      "title": "Senior Controls Engineer, Manufacturing Automation ",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5234542007?gh_jid=5234542007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -778,7 +766,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -802,7 +790,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -838,7 +826,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -886,7 +874,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -898,7 +886,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -910,7 +898,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -922,19 +910,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
-      "first_seen": "2026-09-19"
-    },
-    {
-      "id": "greenhouse-andurilindustries-4972427007",
-      "company": "Anduril Industries",
-      "title": "Senior Robotics Engineer",
-      "location": "Melbourne, Victoria, Australia",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4972427007?gh_jid=4972427007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -946,7 +922,19 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
+      "first_seen": "2026-09-19"
+    },
+    {
+      "id": "greenhouse-andurilindustries-4972427007",
+      "company": "Anduril Industries",
+      "title": "Senior Robotics Engineer",
+      "location": "Melbourne, Victoria, Australia",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4972427007?gh_jid=4972427007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -958,7 +946,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -970,7 +958,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -982,7 +970,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -994,7 +982,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1018,7 +1006,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-13"
     },
     {
@@ -1042,18 +1030,6 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-20",
-      "first_seen": "2026-09-13"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5192153007",
-      "company": "Anduril Industries",
-      "title": "Senior Robotics Software Engineer, Payload Integration",
-      "location": "Abu Dhabi, United Arab Emirates",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5192153007?gh_jid=5192153007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
       "posted_at": "2026-09-21",
       "first_seen": "2026-09-13"
     },
@@ -1063,6 +1039,18 @@
       "title": "Senior Robotics Software Engineer, Payload Integration",
       "location": "Sydney, New South Wales, Australia",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5201424007?gh_jid=5201424007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-09-21",
+      "first_seen": "2026-09-13"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5192153007",
+      "company": "Anduril Industries",
+      "title": "Senior Robotics Software Engineer, Payload Integration",
+      "location": "Abu Dhabi, United Arab Emirates",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5192153007?gh_jid=5192153007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -1090,7 +1078,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1102,7 +1090,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-20",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-13"
     },
     {
@@ -1138,7 +1126,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1150,7 +1138,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-13"
     },
     {
@@ -1162,7 +1150,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1174,7 +1162,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1186,7 +1174,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1198,7 +1186,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1210,19 +1198,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
-      "first_seen": "2026-09-19"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5009089007",
-      "company": "Anduril Industries",
-      "title": "Senior Software Engineer, Robotics",
-      "location": "Boston, Massachusetts, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5009089007?gh_jid=5009089007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1234,7 +1210,19 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
+      "first_seen": "2026-09-19"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5009089007",
+      "company": "Anduril Industries",
+      "title": "Senior Software Engineer, Robotics",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5009089007?gh_jid=5009089007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1246,7 +1234,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1258,32 +1246,8 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5236499007",
-      "company": "Anduril Industries",
-      "title": "Senior Software Engineer, Robotics Tracking and Fusion",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236499007?gh_jid=5236499007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-09-21",
-      "first_seen": "2026-09-13"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5236498007",
-      "company": "Anduril Industries",
-      "title": "Senior Software Engineer, Robotics Tracking and Fusion",
-      "location": "Waltham, Massachusetts, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236498007?gh_jid=5236498007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-09-21",
-      "first_seen": "2026-09-13"
     },
     {
       "id": "greenhouse-andurilindustries-5213224007",
@@ -1291,6 +1255,18 @@
       "title": "Senior Software Engineer, Robotics Tracking and Fusion",
       "location": "Washington, District of Columbia, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213224007?gh_jid=5213224007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-09-21",
+      "first_seen": "2026-09-13"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5236499007",
+      "company": "Anduril Industries",
+      "title": "Senior Software Engineer, Robotics Tracking and Fusion",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236499007?gh_jid=5236499007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -1310,6 +1286,18 @@
       "first_seen": "2026-09-13"
     },
     {
+      "id": "greenhouse-andurilindustries-5236498007",
+      "company": "Anduril Industries",
+      "title": "Senior Software Engineer, Robotics Tracking and Fusion",
+      "location": "Waltham, Massachusetts, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236498007?gh_jid=5236498007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-09-21",
+      "first_seen": "2026-09-13"
+    },
+    {
       "id": "greenhouse-andurilindustries-5159212007",
       "company": "Anduril Industries",
       "title": "Senior Systems Engineer, Mission Autonomy, Active Clearance",
@@ -1318,7 +1306,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1330,7 +1318,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1342,20 +1330,8 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
-      "first_seen": "2026-09-19"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5215566007",
-      "company": "Anduril Industries",
-      "title": "Senior Technical Program Manager, Release, Mission Autonomy",
-      "location": "Seattle, Washington, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215566007?gh_jid=5215566007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
       "posted_at": "2026-09-21",
-      "first_seen": "2026-09-13"
+      "first_seen": "2026-09-19"
     },
     {
       "id": "greenhouse-andurilindustries-5215557007",
@@ -1363,6 +1339,18 @@
       "title": "Senior Technical Program Manager, Release, Mission Autonomy",
       "location": "Washington, District of Columbia, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215557007?gh_jid=5215557007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-09-21",
+      "first_seen": "2026-09-13"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5215566007",
+      "company": "Anduril Industries",
+      "title": "Senior Technical Program Manager, Release, Mission Autonomy",
+      "location": "Seattle, Washington, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215566007?gh_jid=5215566007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -1390,7 +1378,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1402,31 +1390,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
-      "first_seen": "2026-09-19"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5102393007",
-      "company": "Anduril Industries",
-      "title": "Software Engineer, Robotics",
-      "location": "Irvine, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5102393007?gh_jid=5102393007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-09-18",
-      "first_seen": "2026-09-19"
-    },
-    {
-      "id": "greenhouse-andurilindustries-4959625007",
-      "company": "Anduril Industries",
-      "title": "Software Engineer, Robotics",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4959625007?gh_jid=4959625007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1438,20 +1402,32 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
-      "id": "greenhouse-andurilindustries-5236493007",
+      "id": "greenhouse-andurilindustries-5102393007",
       "company": "Anduril Industries",
-      "title": "Software Engineer, Robotics Tracking and Fusion",
-      "location": "Waltham, Massachusetts, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236493007?gh_jid=5236493007",
+      "title": "Software Engineer, Robotics",
+      "location": "Irvine, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5102393007?gh_jid=5102393007",
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
       "posted_at": "2026-09-21",
-      "first_seen": "2026-09-13"
+      "first_seen": "2026-09-19"
+    },
+    {
+      "id": "greenhouse-andurilindustries-4959625007",
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Robotics",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4959625007?gh_jid=4959625007",
+      "category": "defense_public_safety",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-09-21",
+      "first_seen": "2026-09-19"
     },
     {
       "id": "greenhouse-andurilindustries-5236494007",
@@ -1478,6 +1454,18 @@
       "first_seen": "2026-09-13"
     },
     {
+      "id": "greenhouse-andurilindustries-5236493007",
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Robotics Tracking and Fusion",
+      "location": "Waltham, Massachusetts, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236493007?gh_jid=5236493007",
+      "category": "defense_public_safety",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-09-21",
+      "first_seen": "2026-09-13"
+    },
+    {
       "id": "greenhouse-andurilindustries-5238203007",
       "company": "Anduril Industries",
       "title": "Sr. Technical Writer, Mission Autonomy",
@@ -1486,7 +1474,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-15"
     },
     {
@@ -1498,7 +1486,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-13"
     },
     {
@@ -1510,7 +1498,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1522,7 +1510,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1534,7 +1522,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1558,7 +1546,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1570,31 +1558,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
-      "first_seen": "2026-09-19"
-    },
-    {
-      "id": "greenhouse-andurilindustries-4946495007",
-      "company": "Anduril Industries",
-      "title": "Staff Robotics Software Engineer, Air Vehicle Autonomy",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4946495007?gh_jid=4946495007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-09-18",
-      "first_seen": "2026-09-19"
-    },
-    {
-      "id": "greenhouse-andurilindustries-4928029007",
-      "company": "Anduril Industries",
-      "title": "Staff Robotics Software Engineer, Air Vehicle Autonomy",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4928029007?gh_jid=4928029007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1606,7 +1570,31 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
+      "first_seen": "2026-09-19"
+    },
+    {
+      "id": "greenhouse-andurilindustries-4946495007",
+      "company": "Anduril Industries",
+      "title": "Staff Robotics Software Engineer, Air Vehicle Autonomy",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4946495007?gh_jid=4946495007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-09-21",
+      "first_seen": "2026-09-19"
+    },
+    {
+      "id": "greenhouse-andurilindustries-4928029007",
+      "company": "Anduril Industries",
+      "title": "Staff Robotics Software Engineer, Air Vehicle Autonomy",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4928029007?gh_jid=4928029007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1630,7 +1618,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1642,19 +1630,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
-      "first_seen": "2026-09-19"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5173025007",
-      "company": "Anduril Industries",
-      "title": "Staff Systems Engineer, Mission Autonomy, Active Clearance",
-      "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173025007?gh_jid=5173025007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1666,7 +1642,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1678,7 +1654,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1690,7 +1666,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1702,7 +1678,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
     },
     {
@@ -1714,7 +1690,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-20",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-16"
     },
     {
@@ -1726,20 +1702,8 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-20",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-16"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5091503007",
-      "company": "Anduril Industries",
-      "title": "Technical Writer, Autonomous Airpower",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5091503007?gh_jid=5091503007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-09-18",
-      "first_seen": "2026-09-19"
     },
     {
       "id": "greenhouse-andurilindustries-5212880007",
@@ -1750,8 +1714,32 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-19"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5091503007",
+      "company": "Anduril Industries",
+      "title": "Technical Writer, Autonomous Airpower",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5091503007?gh_jid=5091503007",
+      "category": "defense_public_safety",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-09-21",
+      "first_seen": "2026-09-19"
+    },
+    {
+      "id": "greenhouse-apptronik-5988482004",
+      "company": "Apptronik",
+      "title": "Robotics Test Engineer",
+      "location": "Onsite - Austin, TX",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/5988482004?gh_jid=5988482004",
+      "category": "humanoid_legged",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-09-21",
+      "first_seen": "2026-09-22"
     },
     {
       "id": "greenhouse-apptronik-6145262004",
@@ -1764,6 +1752,18 @@
       "source": "greenhouse",
       "posted_at": "2026-09-16",
       "first_seen": "2026-09-17"
+    },
+    {
+      "id": "greenhouse-apptronik-6204500004",
+      "company": "Apptronik",
+      "title": "Vice President of Embodied AI",
+      "location": "Austin, TX",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6204500004?gh_jid=6204500004",
+      "category": "humanoid_legged",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-09-21",
+      "first_seen": "2026-09-22"
     },
     {
       "id": "workday-nvidia-/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Autonomous-Vehicles-and-Robotics---China_JR2024109",
@@ -1803,19 +1803,6 @@
       "first_seen": "2026-09-17"
     },
     {
-      "id": "aggregator-27cb21bfe419",
-      "company": "Motional",
-      "title": "Motion Planning Engineer - Trajectory Generation",
-      "location": "Boston, MA, Las Vegas, NV, Remote in USA, Pittsburgh, PA",
-      "url": "https://motional.com/open-positions/?gh_jid=7980363003#/7980363003",
-      "category": "manipulation_research",
-      "level": "unspecified",
-      "source": "aggregator:simplifyjobs-newgrad",
-      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
-      "posted_at": "2026-09-14",
-      "first_seen": "2026-09-15"
-    },
-    {
       "id": "ashby-physicalintelligence-86237337-963a-4e0e-bcf7-82d366e5f0fc",
       "company": "Physical Intelligence",
       "title": "Fullstack Software Engineer, Robot Interfaces ",
@@ -1828,6 +1815,31 @@
       "first_seen": "2026-09-16"
     },
     {
+      "id": "greenhouse-skildai-careers-5162584008",
+      "company": "Skild AI",
+      "title": "Robotics Engineer, Deployment & Testing - San Mateo ",
+      "location": "San Mateo ",
+      "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/5162584008",
+      "category": "manipulation_research",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-09-21",
+      "first_seen": "2026-09-22"
+    },
+    {
+      "id": "aggregator-db1aea6da85f",
+      "company": "Thought Forge",
+      "title": "Robotics Lab Technician",
+      "location": "Oakland, CA",
+      "url": "https://jobs.smartrecruiters.com/ThoughtForge/744000150938759",
+      "category": "manipulation_research",
+      "level": "unspecified",
+      "source": "aggregator:simplifyjobs-newgrad",
+      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
+      "posted_at": "2026-09-22",
+      "first_seen": "2026-09-22"
+    },
+    {
       "id": "greenhouse-kodiak-4412485009",
       "company": "Kodiak Robotics",
       "title": "Staff Autonomy Software Engineer, Localization ",
@@ -1836,7 +1848,7 @@
       "category": "other",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-20",
+      "posted_at": "2026-09-21",
       "first_seen": "2026-09-21"
     }
   ]
