@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T18:05:41Z",
+  "generated_at": "2026-10-03T16:49:22Z",
   "jobs": [
     {
       "id": "greenhouse-andurilindustries-4802276007",
@@ -50,18 +50,6 @@
       "first_seen": "2026-09-29"
     },
     {
-      "id": "greenhouse-andurilindustries-5234670007",
-      "company": "Anduril Industries",
-      "title": "Manager, Controls Engineering, Rocket Motor Systems",
-      "location": "McHenry, Mississippi, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5234670007?gh_jid=5234670007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-09-25",
-      "first_seen": "2026-09-29"
-    },
-    {
       "id": "greenhouse-andurilindustries-5252900007",
       "company": "Anduril Industries",
       "title": "Manufacturing Engineer II, Autonomous Airpower",
@@ -108,6 +96,18 @@
       "source": "greenhouse",
       "posted_at": "2026-09-30",
       "first_seen": "2026-09-29"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5183145007",
+      "company": "Anduril Industries",
+      "title": "Robotic Software Engineer",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5183145007?gh_jid=5183145007",
+      "category": "defense_public_safety",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-10-02",
+      "first_seen": "2026-10-03"
     },
     {
       "id": "greenhouse-andurilindustries-5234579007",
@@ -192,18 +192,6 @@
       "source": "greenhouse",
       "posted_at": "2026-09-29",
       "first_seen": "2026-09-30"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5229957007",
-      "company": "Anduril Industries",
-      "title": "Senior Robotics Software Engineer ",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5229957007?gh_jid=5229957007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-09-25",
-      "first_seen": "2026-09-29"
     },
     {
       "id": "greenhouse-andurilindustries-5200318007",
@@ -314,18 +302,6 @@
       "first_seen": "2026-09-29"
     },
     {
-      "id": "ashby-graymatter-robotics-388eda33-6397-4e5f-aab3-74545dcc6e88",
-      "company": "GrayMatter Robotics",
-      "title": "Senior Robotics Engineer: Perception",
-      "location": "Los Angeles - HQ",
-      "url": "https://jobs.ashbyhq.com/graymatter-robotics/388eda33-6397-4e5f-aab3-74545dcc6e88",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "ashby",
-      "posted_at": "2026-09-25",
-      "first_seen": "2026-09-26"
-    },
-    {
       "id": "greenhouse-apptronik-6119223004",
       "company": "Apptronik",
       "title": " Senior Product Manager, Perception and Navigation",
@@ -362,11 +338,11 @@
       "first_seen": "2026-09-23"
     },
     {
-      "id": "greenhouse-apptronik-5825048004",
+      "id": "greenhouse-apptronik-6142284004",
       "company": "Apptronik",
       "title": "Lead Software Engineer - Dexterous Manipulation",
-      "location": "Austin, TX",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/5825048004?gh_jid=5825048004",
+      "location": "Sunnyvale, CA",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6142284004?gh_jid=6142284004",
       "category": "humanoid_legged",
       "level": "experienced",
       "source": "greenhouse",
@@ -374,11 +350,11 @@
       "first_seen": "2026-09-29"
     },
     {
-      "id": "greenhouse-apptronik-6142284004",
+      "id": "greenhouse-apptronik-5825048004",
       "company": "Apptronik",
       "title": "Lead Software Engineer - Dexterous Manipulation",
-      "location": "Sunnyvale, CA",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/6142284004?gh_jid=6142284004",
+      "location": "Austin, TX",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/5825048004?gh_jid=5825048004",
       "category": "humanoid_legged",
       "level": "experienced",
       "source": "greenhouse",
@@ -544,41 +520,30 @@
       "first_seen": "2026-09-30"
     },
     {
-      "id": "aggregator-61d19bf2b5b2",
-      "company": "Renesas Electronics",
-      "title": "Engineer \u2013 Physical AI",
-      "location": "Ottawa, ON, Canada",
-      "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000153176614",
+      "id": "aggregator-225cff2a62b0",
+      "company": "Shield AI",
+      "title": "Senior Engineer - Research-to-Product Perception",
+      "location": "San Diego, CA",
+      "url": "https://jobs.lever.co/shieldai/8c213d66-730b-4604-91b1-97dca42a59e3/apply",
+      "category": "manipulation_research",
+      "level": "experienced",
+      "source": "aggregator:simplifyjobs-newgrad",
+      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
+      "posted_at": "2026-10-03",
+      "first_seen": "2026-10-03"
+    },
+    {
+      "id": "aggregator-9b001ec9278b",
+      "company": "Westinghouse Electric Company",
+      "title": "Engineer \u2013 Robotics - High potential program",
+      "location": "Cranberry Township, PA",
+      "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Engineer-Robotics-high-potential-program-NC/1436322800/?ats=successfactors",
       "category": "manipulation_research",
       "level": "unspecified",
       "source": "aggregator:simplifyjobs-newgrad",
       "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
       "posted_at": "2026-10-02",
-      "first_seen": "2026-10-02"
-    },
-    {
-      "id": "greenhouse-skildai-careers-5435633008",
-      "company": "Skild AI",
-      "title": "Enterprise Account Executive \u2013 Warehouse Robotics (North America)",
-      "location": "Remote (United States)",
-      "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/5435633008",
-      "category": "manipulation_research",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-09-25",
-      "first_seen": "2026-09-26"
-    },
-    {
-      "id": "greenhouse-skildai-careers-5435617008",
-      "company": "Skild AI",
-      "title": "Marketing Lead \u2013 Enterprise Warehouse Robotics",
-      "location": "San Mateo, CA",
-      "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/5435617008",
-      "category": "manipulation_research",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-09-25",
-      "first_seen": "2026-09-26"
+      "first_seen": "2026-10-03"
     },
     {
       "id": "lever-capstan-medical-f1781a7f-d176-4d35-b108-1759113d1f21",
@@ -603,30 +568,6 @@
       "source": "lever",
       "posted_at": "2026-10-01",
       "first_seen": "2026-10-01"
-    },
-    {
-      "id": "greenhouse-kodiak-4297363009",
-      "company": "Kodiak Robotics",
-      "title": "Senior Autonomy Software Engineer, Calibration ",
-      "location": "Mountain View, CA",
-      "url": "https://job-boards.greenhouse.io/kodiak/jobs/4297363009",
-      "category": "other",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-09-25",
-      "first_seen": "2026-09-26"
-    },
-    {
-      "id": "greenhouse-kodiak-4421367009",
-      "company": "Kodiak Robotics",
-      "title": "Senior Autonomy Software Engineer, Mapping",
-      "location": "Mountain View, CA",
-      "url": "https://job-boards.greenhouse.io/kodiak/jobs/4421367009",
-      "category": "other",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-09-25",
-      "first_seen": "2026-09-26"
     }
   ]
 }
