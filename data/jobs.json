@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T16:49:22Z",
+  "generated_at": "2026-10-04T17:07:31Z",
   "jobs": [
     {
       "id": "greenhouse-andurilindustries-4802276007",
@@ -338,11 +338,11 @@
       "first_seen": "2026-09-23"
     },
     {
-      "id": "greenhouse-apptronik-6142284004",
+      "id": "greenhouse-apptronik-5825048004",
       "company": "Apptronik",
       "title": "Lead Software Engineer - Dexterous Manipulation",
-      "location": "Sunnyvale, CA",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/6142284004?gh_jid=6142284004",
+      "location": "Austin, TX",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/5825048004?gh_jid=5825048004",
       "category": "humanoid_legged",
       "level": "experienced",
       "source": "greenhouse",
@@ -350,11 +350,11 @@
       "first_seen": "2026-09-29"
     },
     {
-      "id": "greenhouse-apptronik-5825048004",
+      "id": "greenhouse-apptronik-6142284004",
       "company": "Apptronik",
       "title": "Lead Software Engineer - Dexterous Manipulation",
-      "location": "Austin, TX",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/5825048004?gh_jid=5825048004",
+      "location": "Sunnyvale, CA",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6142284004?gh_jid=6142284004",
       "category": "humanoid_legged",
       "level": "experienced",
       "source": "greenhouse",
@@ -434,11 +434,11 @@
       "first_seen": "2026-09-29"
     },
     {
-      "id": "greenhouse-apptronik-6142283004",
+      "id": "greenhouse-apptronik-6135714004",
       "company": "Apptronik",
       "title": "Staff Software Engineer - Humanoid Controls",
-      "location": "Sunnyvale, CA",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/6142283004?gh_jid=6142283004",
+      "location": "Austin, TX",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6135714004?gh_jid=6135714004",
       "category": "humanoid_legged",
       "level": "experienced",
       "source": "greenhouse",
@@ -446,11 +446,11 @@
       "first_seen": "2026-09-29"
     },
     {
-      "id": "greenhouse-apptronik-6135714004",
+      "id": "greenhouse-apptronik-6142283004",
       "company": "Apptronik",
       "title": "Staff Software Engineer - Humanoid Controls",
-      "location": "Austin, TX",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/6135714004?gh_jid=6135714004",
+      "location": "Sunnyvale, CA",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6142283004?gh_jid=6142283004",
       "category": "humanoid_legged",
       "level": "experienced",
       "source": "greenhouse",
@@ -505,6 +505,19 @@
       "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
       "posted_at": "2026-10-01",
       "first_seen": "2026-10-02"
+    },
+    {
+      "id": "aggregator-1639710853e3",
+      "company": "Formlabs",
+      "title": "Robotic Systems Integration Engineer - Sla - SLS",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8241424/apply/?gh_jid=8241424",
+      "category": "manipulation_research",
+      "level": "unspecified",
+      "source": "aggregator:simplifyjobs-newgrad",
+      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
+      "posted_at": "2026-09-29",
+      "first_seen": "2026-10-04"
     },
     {
       "id": "aggregator-66c3554d45ee",
