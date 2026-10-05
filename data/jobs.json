@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T17:07:31Z",
+  "generated_at": "2026-10-05T22:03:57Z",
   "jobs": [
     {
       "id": "greenhouse-andurilindustries-4802276007",
@@ -86,6 +86,18 @@
       "first_seen": "2026-09-29"
     },
     {
+      "id": "greenhouse-andurilindustries-5176745007",
+      "company": "Anduril Industries",
+      "title": "Product Sourcing Engineer, Autonomous Airpower",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176745007?gh_jid=5176745007",
+      "category": "defense_public_safety",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-10-04",
+      "first_seen": "2026-10-05"
+    },
+    {
       "id": "greenhouse-andurilindustries-5241202007",
       "company": "Anduril Industries",
       "title": "Production Program Manager, Autonomous Airpower",
@@ -108,6 +120,30 @@
       "source": "greenhouse",
       "posted_at": "2026-10-02",
       "first_seen": "2026-10-03"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5078772007",
+      "company": "Anduril Industries",
+      "title": "Robotics Software Engineer ",
+      "location": "Atlanta, Georgia, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5078772007?gh_jid=5078772007",
+      "category": "defense_public_safety",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-10-05",
+      "first_seen": "2026-10-05"
+    },
+    {
+      "id": "greenhouse-andurilindustries-4968127007",
+      "company": "Anduril Industries",
+      "title": "Robotics Software Engineer ",
+      "location": "Atlanta, Georgia, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4968127007?gh_jid=4968127007",
+      "category": "defense_public_safety",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-10-05",
+      "first_seen": "2026-10-05"
     },
     {
       "id": "greenhouse-andurilindustries-5234579007",
@@ -178,7 +214,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-09-30",
+      "posted_at": "2026-10-05",
       "first_seen": "2026-09-30"
     },
     {
@@ -228,6 +264,18 @@
       "source": "greenhouse",
       "posted_at": "2026-10-01",
       "first_seen": "2026-09-29"
+    },
+    {
+      "id": "greenhouse-andurilindustries-4932882007",
+      "company": "Anduril Industries",
+      "title": "Senior Software Engineer, Robotics ",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4932882007?gh_jid=4932882007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-10-05",
+      "first_seen": "2026-10-05"
     },
     {
       "id": "greenhouse-andurilindustries-5252479007",
@@ -326,18 +374,6 @@
       "first_seen": "2026-09-29"
     },
     {
-      "id": "greenhouse-apptronik-6206626004",
-      "company": "Apptronik",
-      "title": "IROS 2026 - Robotics & AI Talent",
-      "location": "Austin, Texas & Sunnyvale, California ",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/6206626004?gh_jid=6206626004",
-      "category": "humanoid_legged",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-09-28",
-      "first_seen": "2026-09-23"
-    },
-    {
       "id": "greenhouse-apptronik-5825048004",
       "company": "Apptronik",
       "title": "Lead Software Engineer - Dexterous Manipulation",
@@ -410,18 +446,6 @@
       "first_seen": "2026-09-29"
     },
     {
-      "id": "greenhouse-apptronik-5988546004",
-      "company": "Apptronik",
-      "title": "Staff Perception Hardware Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/5988546004?gh_jid=5988546004",
-      "category": "humanoid_legged",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-09-28",
-      "first_seen": "2026-09-29"
-    },
-    {
       "id": "greenhouse-apptronik-6164339004",
       "company": "Apptronik",
       "title": "Staff Perception Hardware Engineer",
@@ -434,11 +458,11 @@
       "first_seen": "2026-09-29"
     },
     {
-      "id": "greenhouse-apptronik-6135714004",
+      "id": "greenhouse-apptronik-5988546004",
       "company": "Apptronik",
-      "title": "Staff Software Engineer - Humanoid Controls",
-      "location": "Austin, TX",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/6135714004?gh_jid=6135714004",
+      "title": "Staff Perception Hardware Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/5988546004?gh_jid=5988546004",
       "category": "humanoid_legged",
       "level": "experienced",
       "source": "greenhouse",
@@ -451,6 +475,18 @@
       "title": "Staff Software Engineer - Humanoid Controls",
       "location": "Sunnyvale, CA",
       "url": "https://boards.greenhouse.io/apptronik/jobs/6142283004?gh_jid=6142283004",
+      "category": "humanoid_legged",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-09-28",
+      "first_seen": "2026-09-29"
+    },
+    {
+      "id": "greenhouse-apptronik-6135714004",
+      "company": "Apptronik",
+      "title": "Staff Software Engineer - Humanoid Controls",
+      "location": "Austin, TX",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6135714004?gh_jid=6135714004",
       "category": "humanoid_legged",
       "level": "experienced",
       "source": "greenhouse",
@@ -581,6 +617,18 @@
       "source": "lever",
       "posted_at": "2026-10-01",
       "first_seen": "2026-10-01"
+    },
+    {
+      "id": "greenhouse-kodiak-4415255009",
+      "company": "Kodiak Robotics",
+      "title": "Autonomous Vehicle Test Specialist",
+      "location": "Lancaster, TX",
+      "url": "https://job-boards.greenhouse.io/kodiak/jobs/4415255009",
+      "category": "other",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-10-05",
+      "first_seen": "2026-10-05"
     }
   ]
 }
