@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T19:03:11Z",
+  "generated_at": "2026-10-09T18:33:44Z",
   "jobs": [
     {
       "id": "greenhouse-andurilindustries-4802276007",
@@ -62,11 +62,11 @@
       "first_seen": "2026-10-06"
     },
     {
-      "id": "greenhouse-andurilindustries-5234556007",
+      "id": "greenhouse-andurilindustries-5234512007",
       "company": "Anduril Industries",
       "title": "Controls Engineer, Manufacturing Automation ",
       "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5234556007?gh_jid=5234556007",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5234512007?gh_jid=5234512007",
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
@@ -74,11 +74,11 @@
       "first_seen": "2026-10-06"
     },
     {
-      "id": "greenhouse-andurilindustries-5234512007",
+      "id": "greenhouse-andurilindustries-5234556007",
       "company": "Anduril Industries",
       "title": "Controls Engineer, Manufacturing Automation ",
       "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5234512007?gh_jid=5234512007",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5234556007?gh_jid=5234556007",
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
@@ -163,18 +163,6 @@
       "title": "Embedded Linux Software Engineer \u2013 Robotics Platform (DeviceOS)",
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5241352007?gh_jid=5241352007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-10-05",
-      "first_seen": "2026-10-06"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5156575007",
-      "company": "Anduril Industries",
-      "title": "Facilities Controls Engineer",
-      "location": "Ashville, Ohio, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156575007?gh_jid=5156575007",
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
@@ -446,11 +434,11 @@
       "first_seen": "2026-10-03"
     },
     {
-      "id": "greenhouse-andurilindustries-4961600007",
+      "id": "greenhouse-andurilindustries-4972426007",
       "company": "Anduril Industries",
       "title": "Robotics Engineer",
-      "location": "Sydney, New South Wales, Australia",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4961600007?gh_jid=4961600007",
+      "location": "Melbourne, Victoria, Australia",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4972426007?gh_jid=4972426007",
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
@@ -458,11 +446,11 @@
       "first_seen": "2026-10-06"
     },
     {
-      "id": "greenhouse-andurilindustries-4972426007",
+      "id": "greenhouse-andurilindustries-4961600007",
       "company": "Anduril Industries",
       "title": "Robotics Engineer",
-      "location": "Melbourne, Victoria, Australia",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4972426007?gh_jid=4972426007",
+      "location": "Sydney, New South Wales, Australia",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4961600007?gh_jid=4961600007",
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
@@ -482,11 +470,11 @@
       "first_seen": "2026-10-06"
     },
     {
-      "id": "greenhouse-andurilindustries-5179580007",
+      "id": "greenhouse-andurilindustries-5248679007",
       "company": "Anduril Industries",
       "title": "Robotics Software Engineer",
-      "location": "Boston, Massachusetts, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5179580007?gh_jid=5179580007",
+      "location": "Waltham, Massachusetts, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5248679007?gh_jid=5248679007",
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
@@ -494,11 +482,11 @@
       "first_seen": "2026-10-06"
     },
     {
-      "id": "greenhouse-andurilindustries-5136146007",
+      "id": "greenhouse-andurilindustries-5179580007",
       "company": "Anduril Industries",
       "title": "Robotics Software Engineer",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136146007?gh_jid=5136146007",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5179580007?gh_jid=5179580007",
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
@@ -518,11 +506,11 @@
       "first_seen": "2026-10-06"
     },
     {
-      "id": "greenhouse-andurilindustries-5248679007",
+      "id": "greenhouse-andurilindustries-5136146007",
       "company": "Anduril Industries",
       "title": "Robotics Software Engineer",
-      "location": "Waltham, Massachusetts, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5248679007?gh_jid=5248679007",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136146007?gh_jid=5136146007",
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
@@ -530,11 +518,11 @@
       "first_seen": "2026-10-06"
     },
     {
-      "id": "greenhouse-andurilindustries-4968127007",
+      "id": "greenhouse-andurilindustries-5078772007",
       "company": "Anduril Industries",
       "title": "Robotics Software Engineer ",
       "location": "Atlanta, Georgia, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4968127007?gh_jid=4968127007",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5078772007?gh_jid=5078772007",
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
@@ -542,11 +530,11 @@
       "first_seen": "2026-10-05"
     },
     {
-      "id": "greenhouse-andurilindustries-5078772007",
+      "id": "greenhouse-andurilindustries-4968127007",
       "company": "Anduril Industries",
       "title": "Robotics Software Engineer ",
       "location": "Atlanta, Georgia, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5078772007?gh_jid=5078772007",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4968127007?gh_jid=4968127007",
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
@@ -710,18 +698,6 @@
       "first_seen": "2026-10-06"
     },
     {
-      "id": "greenhouse-andurilindustries-5234573007",
-      "company": "Anduril Industries",
-      "title": "Senior Controls Engineer, Manufacturing Automation",
-      "location": "Ashville, Ohio, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5234573007?gh_jid=5234573007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-10-05",
-      "first_seen": "2026-10-06"
-    },
-    {
       "id": "greenhouse-andurilindustries-5234563007",
       "company": "Anduril Industries",
       "title": "Senior Controls Engineer, Manufacturing Automation",
@@ -734,11 +710,11 @@
       "first_seen": "2026-10-06"
     },
     {
-      "id": "greenhouse-andurilindustries-5234534007",
+      "id": "greenhouse-andurilindustries-5234573007",
       "company": "Anduril Industries",
-      "title": "Senior Controls Engineer, Manufacturing Automation ",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5234534007?gh_jid=5234534007",
+      "title": "Senior Controls Engineer, Manufacturing Automation",
+      "location": "Ashville, Ohio, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5234573007?gh_jid=5234573007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -751,6 +727,18 @@
       "title": "Senior Controls Engineer, Manufacturing Automation ",
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5234542007?gh_jid=5234542007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-10-05",
+      "first_seen": "2026-10-06"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5234534007",
+      "company": "Anduril Industries",
+      "title": "Senior Controls Engineer, Manufacturing Automation ",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5234534007?gh_jid=5234534007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -842,18 +830,6 @@
       "first_seen": "2026-10-08"
     },
     {
-      "id": "greenhouse-andurilindustries-5123989007",
-      "company": "Anduril Industries",
-      "title": "Senior Mechatronics Engineer",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5123989007?gh_jid=5123989007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-10-05",
-      "first_seen": "2026-10-06"
-    },
-    {
       "id": "greenhouse-andurilindustries-5239414007",
       "company": "Anduril Industries",
       "title": "Senior Mechatronics Engineer",
@@ -864,6 +840,18 @@
       "source": "greenhouse",
       "posted_at": "2026-10-08",
       "first_seen": "2026-09-30"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5123989007",
+      "company": "Anduril Industries",
+      "title": "Senior Mechatronics Engineer",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5123989007?gh_jid=5123989007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-10-05",
+      "first_seen": "2026-10-06"
     },
     {
       "id": "greenhouse-andurilindustries-5186574007",
@@ -911,30 +899,6 @@
       "level": "experienced",
       "source": "greenhouse",
       "posted_at": "2026-10-05",
-      "first_seen": "2026-10-06"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5163624007",
-      "company": "Anduril Industries",
-      "title": "Senior Product Designer, Mission Autonomy",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5163624007?gh_jid=5163624007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-10-06",
-      "first_seen": "2026-10-06"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5163635007",
-      "company": "Anduril Industries",
-      "title": "Senior Product Designer, Mission Autonomy",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5163635007?gh_jid=5163635007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-10-06",
       "first_seen": "2026-10-06"
     },
     {
@@ -1130,11 +1094,11 @@
       "first_seen": "2026-10-06"
     },
     {
-      "id": "greenhouse-andurilindustries-5175329007",
+      "id": "greenhouse-andurilindustries-5192153007",
       "company": "Anduril Industries",
       "title": "Senior Robotics Software Engineer, Payload Integration",
       "location": "Abu Dhabi, United Arab Emirates",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5175329007?gh_jid=5175329007",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5192153007?gh_jid=5192153007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -1142,11 +1106,11 @@
       "first_seen": "2026-10-06"
     },
     {
-      "id": "greenhouse-andurilindustries-5192153007",
+      "id": "greenhouse-andurilindustries-5175329007",
       "company": "Anduril Industries",
       "title": "Senior Robotics Software Engineer, Payload Integration",
       "location": "Abu Dhabi, United Arab Emirates",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5192153007?gh_jid=5192153007",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5175329007?gh_jid=5175329007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -1274,11 +1238,11 @@
       "first_seen": "2026-10-06"
     },
     {
-      "id": "greenhouse-andurilindustries-5009095007",
+      "id": "greenhouse-andurilindustries-5009085007",
       "company": "Anduril Industries",
       "title": "Senior Software Engineer, Robotics",
-      "location": "Irvine, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5009095007?gh_jid=5009095007",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5009085007?gh_jid=5009085007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -1310,11 +1274,11 @@
       "first_seen": "2026-09-29"
     },
     {
-      "id": "greenhouse-andurilindustries-5009085007",
+      "id": "greenhouse-andurilindustries-5009095007",
       "company": "Anduril Industries",
       "title": "Senior Software Engineer, Robotics",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5009085007?gh_jid=5009085007",
+      "location": "Irvine, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5009095007?gh_jid=5009095007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -1358,18 +1322,6 @@
       "first_seen": "2026-10-06"
     },
     {
-      "id": "greenhouse-andurilindustries-5213224007",
-      "company": "Anduril Industries",
-      "title": "Senior Software Engineer, Robotics Tracking and Fusion",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213224007?gh_jid=5213224007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-10-05",
-      "first_seen": "2026-10-06"
-    },
-    {
       "id": "greenhouse-andurilindustries-5236502007",
       "company": "Anduril Industries",
       "title": "Senior Software Engineer, Robotics Tracking and Fusion",
@@ -1382,11 +1334,11 @@
       "first_seen": "2026-10-06"
     },
     {
-      "id": "greenhouse-andurilindustries-5236499007",
+      "id": "greenhouse-andurilindustries-5213224007",
       "company": "Anduril Industries",
       "title": "Senior Software Engineer, Robotics Tracking and Fusion",
       "location": "Washington, District of Columbia, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236499007?gh_jid=5236499007",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213224007?gh_jid=5213224007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -1399,6 +1351,18 @@
       "title": "Senior Software Engineer, Robotics Tracking and Fusion",
       "location": "Waltham, Massachusetts, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236498007?gh_jid=5236498007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-10-05",
+      "first_seen": "2026-10-06"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5236499007",
+      "company": "Anduril Industries",
+      "title": "Senior Software Engineer, Robotics Tracking and Fusion",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236499007?gh_jid=5236499007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -1466,11 +1430,11 @@
       "first_seen": "2026-10-06"
     },
     {
-      "id": "greenhouse-andurilindustries-5215557007",
+      "id": "greenhouse-andurilindustries-5215566007",
       "company": "Anduril Industries",
       "title": "Senior Technical Program Manager, Release, Mission Autonomy",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215557007?gh_jid=5215557007",
+      "location": "Seattle, Washington, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215566007?gh_jid=5215566007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -1478,11 +1442,11 @@
       "first_seen": "2026-10-06"
     },
     {
-      "id": "greenhouse-andurilindustries-5215566007",
+      "id": "greenhouse-andurilindustries-5215557007",
       "company": "Anduril Industries",
       "title": "Senior Technical Program Manager, Release, Mission Autonomy",
-      "location": "Seattle, Washington, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215566007?gh_jid=5215566007",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215557007?gh_jid=5215557007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -1514,6 +1478,18 @@
       "first_seen": "2026-10-06"
     },
     {
+      "id": "greenhouse-andurilindustries-4932360007",
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Robotics",
+      "location": "Irvine, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4932360007?gh_jid=4932360007",
+      "category": "defense_public_safety",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-10-05",
+      "first_seen": "2026-10-06"
+    },
+    {
       "id": "greenhouse-andurilindustries-5102393007",
       "company": "Anduril Industries",
       "title": "Software Engineer, Robotics",
@@ -1538,11 +1514,11 @@
       "first_seen": "2026-10-06"
     },
     {
-      "id": "greenhouse-andurilindustries-4932360007",
+      "id": "greenhouse-andurilindustries-5247292007",
       "company": "Anduril Industries",
-      "title": "Software Engineer, Robotics",
-      "location": "Irvine, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4932360007?gh_jid=4932360007",
+      "title": "Software Engineer, Robotics Data Foundation (Cloud)",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5247292007?gh_jid=5247292007",
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
@@ -1555,18 +1531,6 @@
       "title": "Software Engineer, Robotics Data Foundation (Cloud)",
       "location": "Seattle, Washington, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5185965007?gh_jid=5185965007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-10-05",
-      "first_seen": "2026-10-06"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5247292007",
-      "company": "Anduril Industries",
-      "title": "Software Engineer, Robotics Data Foundation (Cloud)",
-      "location": "Boston, Massachusetts, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5247292007?gh_jid=5247292007",
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
@@ -1658,11 +1622,11 @@
       "first_seen": "2026-09-30"
     },
     {
-      "id": "greenhouse-andurilindustries-4961602007",
+      "id": "greenhouse-andurilindustries-4972429007",
       "company": "Anduril Industries",
       "title": "Staff Robotics Engineer",
-      "location": "Sydney, New South Wales, Australia",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4961602007?gh_jid=4961602007",
+      "location": "Melbourne, Victoria, Australia",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4972429007?gh_jid=4972429007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -1670,11 +1634,11 @@
       "first_seen": "2026-10-06"
     },
     {
-      "id": "greenhouse-andurilindustries-4972429007",
+      "id": "greenhouse-andurilindustries-4961602007",
       "company": "Anduril Industries",
       "title": "Staff Robotics Engineer",
-      "location": "Melbourne, Victoria, Australia",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4972429007?gh_jid=4972429007",
+      "location": "Sydney, New South Wales, Australia",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4961602007?gh_jid=4961602007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -1730,18 +1694,6 @@
       "first_seen": "2026-09-29"
     },
     {
-      "id": "greenhouse-andurilindustries-4946495007",
-      "company": "Anduril Industries",
-      "title": "Staff Robotics Software Engineer, Air Vehicle Autonomy",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4946495007?gh_jid=4946495007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-10-05",
-      "first_seen": "2026-10-06"
-    },
-    {
       "id": "greenhouse-andurilindustries-4928029007",
       "company": "Anduril Industries",
       "title": "Staff Robotics Software Engineer, Air Vehicle Autonomy",
@@ -1759,6 +1711,18 @@
       "title": "Staff Robotics Software Engineer, Air Vehicle Autonomy",
       "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4946496007?gh_jid=4946496007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-10-05",
+      "first_seen": "2026-10-06"
+    },
+    {
+      "id": "greenhouse-andurilindustries-4946495007",
+      "company": "Anduril Industries",
+      "title": "Staff Robotics Software Engineer, Air Vehicle Autonomy",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4946495007?gh_jid=4946495007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -1935,19 +1899,6 @@
       "first_seen": "2026-09-13"
     },
     {
-      "id": "aggregator-d7933ccb4611",
-      "company": "Amazon",
-      "title": "Software Development Engineer - Robotics",
-      "location": "Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington County, Arlington, VA, Bellevue, WA, Westborough, MA",
-      "url": "https://amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027",
-      "category": "manipulation_research",
-      "level": "unspecified",
-      "source": "aggregator:simplifyjobs-newgrad",
-      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
-      "posted_at": "2026-10-01",
-      "first_seen": "2026-10-02"
-    },
-    {
       "id": "aggregator-ee808aa3be91",
       "company": "Nordson",
       "title": "Mechatronics Engineer 2",
@@ -1959,19 +1910,6 @@
       "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
       "posted_at": "2026-10-07",
       "first_seen": "2026-10-08"
-    },
-    {
-      "id": "aggregator-1866d7948a3e",
-      "company": "Renesas Electronics",
-      "title": "Engineer \u2013 Physical AI",
-      "location": "Ottawa, ON, Canada",
-      "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000153612249",
-      "category": "manipulation_research",
-      "level": "unspecified",
-      "source": "aggregator:simplifyjobs-newgrad",
-      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
-      "posted_at": "2026-10-05",
-      "first_seen": "2026-10-06"
     },
     {
       "id": "aggregator-bfb3ccedd42e",
@@ -2024,18 +1962,6 @@
       "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
       "posted_at": "2026-10-08",
       "first_seen": "2026-10-08"
-    },
-    {
-      "id": "lever-capstan-medical-92995a55-a25c-45c2-82b3-6589ab50d1f6",
-      "company": "Capstan Medical",
-      "title": "Sr/Staff Manufacturing Engineer, Robot Productization",
-      "location": "Santa Cruz, California",
-      "url": "https://jobs.lever.co/capstan-medical/92995a55-a25c-45c2-82b3-6589ab50d1f6",
-      "category": "medical_surgical",
-      "level": "experienced",
-      "source": "lever",
-      "posted_at": "2026-10-01",
-      "first_seen": "2026-10-01"
     },
     {
       "id": "greenhouse-kodiak-4415255009",
