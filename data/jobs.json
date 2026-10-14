@@ -1,65 +1,53 @@
 {
-  "generated_at": "2026-10-13T19:35:54Z",
+  "generated_at": "2026-10-14T17:39:29Z",
   "jobs": [
     {
-      "id": "greenhouse-andurilindustries-5252900007",
+      "id": "greenhouse-andurilindustries-5156575007",
       "company": "Anduril Industries",
-      "title": "Manufacturing Engineer II, Autonomous Airpower",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5252900007?gh_jid=5252900007",
+      "title": "Facilities Controls Engineer",
+      "location": "Ashville, Ohio, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156575007?gh_jid=5156575007",
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-10-06",
-      "first_seen": "2026-09-30"
+      "posted_at": "2026-10-14",
+      "first_seen": "2026-10-14"
     },
     {
-      "id": "greenhouse-andurilindustries-5252078007",
-      "company": "Anduril Industries",
-      "title": "Manufacturing Engineer, Autonomous Airpower",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5252078007?gh_jid=5252078007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-10-06",
-      "first_seen": "2026-09-30"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5197631007",
-      "company": "Anduril Industries",
-      "title": "Mission Operations Product Manager, Group 5 Mission Autonomy",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5197631007?gh_jid=5197631007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-10-07",
-      "first_seen": "2026-10-06"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5217951007",
+      "id": "greenhouse-andurilindustries-5265377007",
       "company": "Anduril Industries",
       "title": "Mission Operations Product Manager, Group 5 Mission Autonomy",
       "location": "Washington, District of Columbia, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5217951007?gh_jid=5217951007",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265377007?gh_jid=5265377007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-10-07",
-      "first_seen": "2026-10-06"
+      "posted_at": "2026-10-14",
+      "first_seen": "2026-10-14"
     },
     {
-      "id": "greenhouse-andurilindustries-5244604007",
+      "id": "greenhouse-andurilindustries-5265382007",
       "company": "Anduril Industries",
       "title": "Mission Operations Product Manager, Group 5 Mission Autonomy",
       "location": "Remote",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5244604007?gh_jid=5244604007",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265382007?gh_jid=5265382007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-10-07",
-      "first_seen": "2026-10-08"
+      "posted_at": "2026-10-14",
+      "first_seen": "2026-10-14"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5247776007",
+      "company": "Anduril Industries",
+      "title": "Mission Operations Product Manager, Group 5 Mission Autonomy",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5247776007?gh_jid=5247776007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-10-14",
+      "first_seen": "2026-10-14"
     },
     {
       "id": "greenhouse-andurilindustries-5262870007",
@@ -74,30 +62,6 @@
       "first_seen": "2026-10-10"
     },
     {
-      "id": "greenhouse-andurilindustries-5241202007",
-      "company": "Anduril Industries",
-      "title": "Production Program Manager, Autonomous Airpower",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5241202007?gh_jid=5241202007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-10-06",
-      "first_seen": "2026-09-29"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5264635007",
-      "company": "Anduril Industries",
-      "title": "Robotics Software Engineer ",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5264635007?gh_jid=5264635007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-10-13",
-      "first_seen": "2026-10-13"
-    },
-    {
       "id": "greenhouse-andurilindustries-5262868007",
       "company": "Anduril Industries",
       "title": "Senior Controls Engineer",
@@ -108,18 +72,6 @@
       "source": "greenhouse",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5252906007",
-      "company": "Anduril Industries",
-      "title": "Senior Manufacturing Engineer, Autonomous Airpower",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5252906007?gh_jid=5252906007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-10-06",
-      "first_seen": "2026-09-30"
     },
     {
       "id": "greenhouse-andurilindustries-5225977007",
@@ -170,18 +122,6 @@
       "first_seen": "2026-10-10"
     },
     {
-      "id": "greenhouse-andurilindustries-5252915007",
-      "company": "Anduril Industries",
-      "title": "Staff Manufacturing Engineer, Autonomous Airpower",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5252915007?gh_jid=5252915007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-10-06",
-      "first_seen": "2026-09-30"
-    },
-    {
       "id": "greenhouse-andurilindustries-5260288007",
       "company": "Anduril Industries",
       "title": "Systems Engineering Manager, Mission Autonomy",
@@ -218,11 +158,11 @@
       "first_seen": "2026-10-13"
     },
     {
-      "id": "greenhouse-apptronik-5825048004",
+      "id": "greenhouse-apptronik-6142284004",
       "company": "Apptronik",
       "title": "Lead Software Engineer - Dexterous Manipulation",
-      "location": "Austin, TX",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/5825048004?gh_jid=5825048004",
+      "location": "Sunnyvale, CA",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6142284004?gh_jid=6142284004",
       "category": "humanoid_legged",
       "level": "experienced",
       "source": "greenhouse",
@@ -230,11 +170,11 @@
       "first_seen": "2026-10-12"
     },
     {
-      "id": "greenhouse-apptronik-6142284004",
+      "id": "greenhouse-apptronik-5825048004",
       "company": "Apptronik",
       "title": "Lead Software Engineer - Dexterous Manipulation",
-      "location": "Sunnyvale, CA",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/6142284004?gh_jid=6142284004",
+      "location": "Austin, TX",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/5825048004?gh_jid=5825048004",
       "category": "humanoid_legged",
       "level": "experienced",
       "source": "greenhouse",
@@ -290,11 +230,11 @@
       "first_seen": "2026-10-13"
     },
     {
-      "id": "greenhouse-apptronik-5988546004",
+      "id": "greenhouse-apptronik-6164339004",
       "company": "Apptronik",
       "title": "Staff Perception Hardware Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/5988546004?gh_jid=5988546004",
+      "location": "Austin, TX",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6164339004?gh_jid=6164339004",
       "category": "humanoid_legged",
       "level": "experienced",
       "source": "greenhouse",
@@ -302,11 +242,11 @@
       "first_seen": "2026-10-13"
     },
     {
-      "id": "greenhouse-apptronik-6164339004",
+      "id": "greenhouse-apptronik-5988546004",
       "company": "Apptronik",
       "title": "Staff Perception Hardware Engineer",
-      "location": "Austin, TX",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/6164339004?gh_jid=6164339004",
+      "location": "Sunnyvale, CA",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/5988546004?gh_jid=5988546004",
       "category": "humanoid_legged",
       "level": "experienced",
       "source": "greenhouse",
@@ -388,19 +328,6 @@
       "first_seen": "2026-10-13"
     },
     {
-      "id": "aggregator-bfb3ccedd42e",
-      "company": "Rhoda AI",
-      "title": "Associate Engineering Product Manager-Robot Data Systems",
-      "location": "Mountain View, CA",
-      "url": "https://jobs.ashbyhq.com/rhoda-ai/8646ec23-1900-409b-8d09-81d7e41fb5d7/application?embed=true",
-      "category": "manipulation_research",
-      "level": "experienced",
-      "source": "aggregator:simplifyjobs-newgrad",
-      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
-      "posted_at": "2026-10-06",
-      "first_seen": "2026-10-07"
-    },
-    {
       "id": "aggregator-604cc808d777",
       "company": "TSMG",
       "title": "Robot Wrangler",
@@ -414,16 +341,17 @@
       "first_seen": "2026-10-08"
     },
     {
-      "id": "greenhouse-kodiak-4415255009",
-      "company": "Kodiak Robotics",
-      "title": "Autonomous Vehicle Test Specialist",
-      "location": "Lancaster, TX",
-      "url": "https://job-boards.greenhouse.io/kodiak/jobs/4415255009",
-      "category": "other",
+      "id": "aggregator-89c397212aae",
+      "company": "University of Texas at Austin",
+      "title": "Robotics and Autonomy Engineer",
+      "location": "Texas",
+      "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Robotics-and-Autonomy-Engineer--ESA-_R_00048989-1",
+      "category": "manipulation_research",
       "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-10-06",
-      "first_seen": "2026-10-05"
+      "source": "aggregator:simplifyjobs-newgrad",
+      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
+      "posted_at": "2026-10-13",
+      "first_seen": "2026-10-14"
     }
   ]
 }
