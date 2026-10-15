@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:39:29Z",
+  "generated_at": "2026-10-15T17:25:32Z",
   "jobs": [
     {
       "id": "greenhouse-andurilindustries-5156575007",
@@ -9,6 +9,30 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156575007?gh_jid=5156575007",
       "category": "defense_public_safety",
       "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-10-14",
+      "first_seen": "2026-10-14"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5266024007",
+      "company": "Anduril Industries",
+      "title": "Flight Test Engineer - Mission Autonomy ",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5266024007?gh_jid=5266024007",
+      "category": "defense_public_safety",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-10-14",
+      "first_seen": "2026-10-15"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5247776007",
+      "company": "Anduril Industries",
+      "title": "Mission Operations Product Manager, Group 5 Mission Autonomy",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5247776007?gh_jid=5247776007",
+      "category": "defense_public_safety",
+      "level": "experienced",
       "source": "greenhouse",
       "posted_at": "2026-10-14",
       "first_seen": "2026-10-14"
@@ -31,18 +55,6 @@
       "title": "Mission Operations Product Manager, Group 5 Mission Autonomy",
       "location": "Remote",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265382007?gh_jid=5265382007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-10-14",
-      "first_seen": "2026-10-14"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5247776007",
-      "company": "Anduril Industries",
-      "title": "Mission Operations Product Manager, Group 5 Mission Autonomy",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5247776007?gh_jid=5247776007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -110,6 +122,30 @@
       "first_seen": "2026-10-10"
     },
     {
+      "id": "greenhouse-andurilindustries-5158219007",
+      "company": "Anduril Industries",
+      "title": "Senior Product Designer, Mission Autonomy",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5158219007?gh_jid=5158219007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-10-15",
+      "first_seen": "2026-10-15"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5261560007",
+      "company": "Anduril Industries",
+      "title": "Senior Product Designer, Mission Autonomy",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261560007?gh_jid=5261560007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-10-15",
+      "first_seen": "2026-10-15"
+    },
+    {
       "id": "greenhouse-andurilindustries-5262876007",
       "company": "Anduril Industries",
       "title": "Staff Controls Engineer",
@@ -120,18 +156,6 @@
       "source": "greenhouse",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5260288007",
-      "company": "Anduril Industries",
-      "title": "Systems Engineering Manager, Mission Autonomy",
-      "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5260288007?gh_jid=5260288007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-10-07",
-      "first_seen": "2026-10-07"
     },
     {
       "id": "greenhouse-apptronik-6119223004",
@@ -158,11 +182,11 @@
       "first_seen": "2026-10-13"
     },
     {
-      "id": "greenhouse-apptronik-6142284004",
+      "id": "greenhouse-apptronik-5825048004",
       "company": "Apptronik",
       "title": "Lead Software Engineer - Dexterous Manipulation",
-      "location": "Sunnyvale, CA",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/6142284004?gh_jid=6142284004",
+      "location": "Austin, TX",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/5825048004?gh_jid=5825048004",
       "category": "humanoid_legged",
       "level": "experienced",
       "source": "greenhouse",
@@ -170,11 +194,11 @@
       "first_seen": "2026-10-12"
     },
     {
-      "id": "greenhouse-apptronik-5825048004",
+      "id": "greenhouse-apptronik-6142284004",
       "company": "Apptronik",
       "title": "Lead Software Engineer - Dexterous Manipulation",
-      "location": "Austin, TX",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/5825048004?gh_jid=5825048004",
+      "location": "Sunnyvale, CA",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6142284004?gh_jid=6142284004",
       "category": "humanoid_legged",
       "level": "experienced",
       "source": "greenhouse",
@@ -206,6 +230,18 @@
       "first_seen": "2026-10-13"
     },
     {
+      "id": "greenhouse-apptronik-6225394004",
+      "company": "Apptronik",
+      "title": "Senior Perception Learning Engineer ",
+      "location": "Sunnyvale, CA",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6225394004?gh_jid=6225394004",
+      "category": "humanoid_legged",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-10-15",
+      "first_seen": "2026-10-15"
+    },
+    {
       "id": "greenhouse-apptronik-6017584004",
       "company": "Apptronik",
       "title": "Senior Product Manager - Human Robot Interaction",
@@ -230,18 +266,6 @@
       "first_seen": "2026-10-13"
     },
     {
-      "id": "greenhouse-apptronik-6164339004",
-      "company": "Apptronik",
-      "title": "Staff Perception Hardware Engineer",
-      "location": "Austin, TX",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/6164339004?gh_jid=6164339004",
-      "category": "humanoid_legged",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-10-13",
-      "first_seen": "2026-10-13"
-    },
-    {
       "id": "greenhouse-apptronik-5988546004",
       "company": "Apptronik",
       "title": "Staff Perception Hardware Engineer",
@@ -254,11 +278,11 @@
       "first_seen": "2026-10-13"
     },
     {
-      "id": "greenhouse-apptronik-6142283004",
+      "id": "greenhouse-apptronik-6164339004",
       "company": "Apptronik",
-      "title": "Staff Software Engineer - Humanoid Controls",
-      "location": "Sunnyvale, CA",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/6142283004?gh_jid=6142283004",
+      "title": "Staff Perception Hardware Engineer",
+      "location": "Austin, TX",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6164339004?gh_jid=6164339004",
       "category": "humanoid_legged",
       "level": "experienced",
       "source": "greenhouse",
@@ -278,6 +302,18 @@
       "first_seen": "2026-10-13"
     },
     {
+      "id": "greenhouse-apptronik-6142283004",
+      "company": "Apptronik",
+      "title": "Staff Software Engineer - Humanoid Controls",
+      "location": "Sunnyvale, CA",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6142283004?gh_jid=6142283004",
+      "category": "humanoid_legged",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-10-13",
+      "first_seen": "2026-10-13"
+    },
+    {
       "id": "workday-nvidia-/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Autonomous-Vehicles-and-Robotics---China_JR2024109",
       "company": "NVIDIA",
       "title": "NVIDIA 2027 New College Graduate: Autonomous Vehicles and Robotics - China",
@@ -288,19 +324,6 @@
       "source": "workday",
       "posted_at": "Posted 30+ Days Ago",
       "first_seen": "2026-09-13"
-    },
-    {
-      "id": "aggregator-e90cd6660a04",
-      "company": "NVIDIA",
-      "title": "Research Scientist PhD New Grad - Autonomous Systems and Physical AI Research",
-      "location": "Santa Clara, CA",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551",
-      "category": "manipulation_research",
-      "level": "entry",
-      "source": "aggregator:simplifyjobs-newgrad",
-      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
-      "posted_at": "2026-10-07",
-      "first_seen": "2026-10-08"
     },
     {
       "id": "workday-nvidia-/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473",
@@ -328,17 +351,29 @@
       "first_seen": "2026-10-13"
     },
     {
-      "id": "aggregator-604cc808d777",
-      "company": "TSMG",
-      "title": "Robot Wrangler",
-      "location": "SF",
-      "url": "https://jobs.lever.co/tsmg/801fa039-a184-4a6c-b5b4-c7fbe41e5d3a/apply",
+      "id": "aggregator-57287759ae7e",
+      "company": "PlusAI",
+      "title": "Senior Machine Learning Engineer - Perception",
+      "location": "Santa Clara, CA",
+      "url": "https://jobs.lever.co/plus-2/49900d1b-1074-4372-82b0-a5f33c038a8c/apply",
       "category": "manipulation_research",
-      "level": "unspecified",
+      "level": "experienced",
       "source": "aggregator:simplifyjobs-newgrad",
       "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
-      "posted_at": "2026-10-08",
-      "first_seen": "2026-10-08"
+      "posted_at": "2026-10-15",
+      "first_seen": "2026-10-15"
+    },
+    {
+      "id": "greenhouse-skildai-careers-5453536008",
+      "company": "Skild AI",
+      "title": "Robotics Engineer, Teleoperation",
+      "location": "San Mateo ",
+      "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/5453536008",
+      "category": "manipulation_research",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-10-14",
+      "first_seen": "2026-10-15"
     },
     {
       "id": "aggregator-89c397212aae",
@@ -352,6 +387,18 @@
       "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
       "posted_at": "2026-10-13",
       "first_seen": "2026-10-14"
+    },
+    {
+      "id": "lever-capstan-medical-c774aedc-9781-43a0-8982-b34514cbad3b",
+      "company": "Capstan Medical",
+      "title": "Senior Machine Learning Engineer, Perception and Controls",
+      "location": "West Menlo Park, California",
+      "url": "https://jobs.lever.co/capstan-medical/c774aedc-9781-43a0-8982-b34514cbad3b",
+      "category": "medical_surgical",
+      "level": "experienced",
+      "source": "lever",
+      "posted_at": "2026-10-14",
+      "first_seen": "2026-10-15"
     }
   ]
 }
