@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-15T17:25:32Z",
+  "generated_at": "2026-10-16T17:01:48Z",
   "jobs": [
+    {
+      "id": "greenhouse-andurilindustries-5241352007",
+      "company": "Anduril Industries",
+      "title": "Embedded Linux Software Engineer \u2013 Robotics Platform (DeviceOS)",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5241352007?gh_jid=5241352007",
+      "category": "defense_public_safety",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-10-15",
+      "first_seen": "2026-10-16"
+    },
     {
       "id": "greenhouse-andurilindustries-5156575007",
       "company": "Anduril Industries",
@@ -26,6 +38,30 @@
       "first_seen": "2026-10-15"
     },
     {
+      "id": "greenhouse-andurilindustries-5235461007",
+      "company": "Anduril Industries",
+      "title": "Mission Autonomy Lead - Thunder",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5235461007?gh_jid=5235461007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-10-16",
+      "first_seen": "2026-10-16"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5265382007",
+      "company": "Anduril Industries",
+      "title": "Mission Operations Product Manager, Group 5 Mission Autonomy",
+      "location": "Remote",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265382007?gh_jid=5265382007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-10-14",
+      "first_seen": "2026-10-14"
+    },
+    {
       "id": "greenhouse-andurilindustries-5247776007",
       "company": "Anduril Industries",
       "title": "Mission Operations Product Manager, Group 5 Mission Autonomy",
@@ -43,18 +79,6 @@
       "title": "Mission Operations Product Manager, Group 5 Mission Autonomy",
       "location": "Washington, District of Columbia, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265377007?gh_jid=5265377007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-10-14",
-      "first_seen": "2026-10-14"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5265382007",
-      "company": "Anduril Industries",
-      "title": "Mission Operations Product Manager, Group 5 Mission Autonomy",
-      "location": "Remote",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265382007?gh_jid=5265382007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -86,28 +110,16 @@
       "first_seen": "2026-10-10"
     },
     {
-      "id": "greenhouse-andurilindustries-5225977007",
+      "id": "greenhouse-andurilindustries-5237799007",
       "company": "Anduril Industries",
-      "title": "Senior Mechanical Engineer, Autonomous Systems",
+      "title": "Senior Embedded Linux Software Engineer \u2013 Robotics Platform (DeviceOS)",
       "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5225977007?gh_jid=5225977007",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5237799007?gh_jid=5237799007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-10-08",
-      "first_seen": "2026-10-08"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5239414007",
-      "company": "Anduril Industries",
-      "title": "Senior Mechatronics Engineer",
-      "location": "Abu Dhabi, United Arab Emirates",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239414007?gh_jid=5239414007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-10-08",
-      "first_seen": "2026-09-30"
+      "posted_at": "2026-10-15",
+      "first_seen": "2026-10-16"
     },
     {
       "id": "greenhouse-andurilindustries-5262877007",
@@ -122,11 +134,11 @@
       "first_seen": "2026-10-10"
     },
     {
-      "id": "greenhouse-andurilindustries-5158219007",
+      "id": "greenhouse-andurilindustries-5261560007",
       "company": "Anduril Industries",
       "title": "Senior Product Designer, Mission Autonomy",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5158219007?gh_jid=5158219007",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261560007?gh_jid=5261560007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -134,11 +146,11 @@
       "first_seen": "2026-10-15"
     },
     {
-      "id": "greenhouse-andurilindustries-5261560007",
+      "id": "greenhouse-andurilindustries-5158219007",
       "company": "Anduril Industries",
       "title": "Senior Product Designer, Mission Autonomy",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261560007?gh_jid=5261560007",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5158219007?gh_jid=5158219007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -156,6 +168,18 @@
       "source": "greenhouse",
       "posted_at": "2026-10-09",
       "first_seen": "2026-10-10"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5121816007",
+      "company": "Anduril Industries",
+      "title": "Staff Robotics Software Engineer, Tracking & Fusion",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5121816007?gh_jid=5121816007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-10-15",
+      "first_seen": "2026-10-16"
     },
     {
       "id": "greenhouse-apptronik-6119223004",
