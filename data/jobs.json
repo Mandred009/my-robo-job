@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T17:01:48Z",
+  "generated_at": "2026-10-17T16:00:45Z",
   "jobs": [
     {
       "id": "greenhouse-andurilindustries-5241352007",
@@ -50,18 +50,6 @@
       "first_seen": "2026-10-16"
     },
     {
-      "id": "greenhouse-andurilindustries-5265382007",
-      "company": "Anduril Industries",
-      "title": "Mission Operations Product Manager, Group 5 Mission Autonomy",
-      "location": "Remote",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265382007?gh_jid=5265382007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-10-14",
-      "first_seen": "2026-10-14"
-    },
-    {
       "id": "greenhouse-andurilindustries-5247776007",
       "company": "Anduril Industries",
       "title": "Mission Operations Product Manager, Group 5 Mission Autonomy",
@@ -86,30 +74,6 @@
       "first_seen": "2026-10-14"
     },
     {
-      "id": "greenhouse-andurilindustries-5262870007",
-      "company": "Anduril Industries",
-      "title": "Power Controls Engineer",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262870007?gh_jid=5262870007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-10-09",
-      "first_seen": "2026-10-10"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5262868007",
-      "company": "Anduril Industries",
-      "title": "Senior Controls Engineer",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262868007?gh_jid=5262868007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-10-09",
-      "first_seen": "2026-10-10"
-    },
-    {
       "id": "greenhouse-andurilindustries-5237799007",
       "company": "Anduril Industries",
       "title": "Senior Embedded Linux Software Engineer \u2013 Robotics Platform (DeviceOS)",
@@ -120,18 +84,6 @@
       "source": "greenhouse",
       "posted_at": "2026-10-15",
       "first_seen": "2026-10-16"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5262877007",
-      "company": "Anduril Industries",
-      "title": "Senior Power Controls Engineer",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262877007?gh_jid=5262877007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-10-09",
-      "first_seen": "2026-10-10"
     },
     {
       "id": "greenhouse-andurilindustries-5261560007",
@@ -158,16 +110,16 @@
       "first_seen": "2026-10-15"
     },
     {
-      "id": "greenhouse-andurilindustries-5262876007",
+      "id": "greenhouse-andurilindustries-5200318007",
       "company": "Anduril Industries",
-      "title": "Staff Controls Engineer",
+      "title": "Senior Robotics Software Engineer, Thunder",
       "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262876007?gh_jid=5262876007",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5200318007?gh_jid=5200318007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-10-09",
-      "first_seen": "2026-10-10"
+      "posted_at": "2026-10-16",
+      "first_seen": "2026-10-17"
     },
     {
       "id": "greenhouse-andurilindustries-5121816007",
@@ -192,6 +144,18 @@
       "source": "greenhouse",
       "posted_at": "2026-10-13",
       "first_seen": "2026-10-13"
+    },
+    {
+      "id": "greenhouse-apptronik-6226572004",
+      "company": "Apptronik",
+      "title": "CoRL 2026 - Robotics & AI Talent ",
+      "location": "Austin, Texas & Sunnyvale, California ",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6226572004?gh_jid=6226572004",
+      "category": "humanoid_legged",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-10-16",
+      "first_seen": "2026-10-17"
     },
     {
       "id": "greenhouse-apptronik-6188799004",
@@ -290,18 +254,6 @@
       "first_seen": "2026-10-13"
     },
     {
-      "id": "greenhouse-apptronik-5988546004",
-      "company": "Apptronik",
-      "title": "Staff Perception Hardware Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/5988546004?gh_jid=5988546004",
-      "category": "humanoid_legged",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-10-13",
-      "first_seen": "2026-10-13"
-    },
-    {
       "id": "greenhouse-apptronik-6164339004",
       "company": "Apptronik",
       "title": "Staff Perception Hardware Engineer",
@@ -314,11 +266,11 @@
       "first_seen": "2026-10-13"
     },
     {
-      "id": "greenhouse-apptronik-6135714004",
+      "id": "greenhouse-apptronik-5988546004",
       "company": "Apptronik",
-      "title": "Staff Software Engineer - Humanoid Controls",
-      "location": "Austin, TX",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/6135714004?gh_jid=6135714004",
+      "title": "Staff Perception Hardware Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/5988546004?gh_jid=5988546004",
       "category": "humanoid_legged",
       "level": "experienced",
       "source": "greenhouse",
@@ -331,6 +283,18 @@
       "title": "Staff Software Engineer - Humanoid Controls",
       "location": "Sunnyvale, CA",
       "url": "https://boards.greenhouse.io/apptronik/jobs/6142283004?gh_jid=6142283004",
+      "category": "humanoid_legged",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-10-13",
+      "first_seen": "2026-10-13"
+    },
+    {
+      "id": "greenhouse-apptronik-6135714004",
+      "company": "Apptronik",
+      "title": "Staff Software Engineer - Humanoid Controls",
+      "location": "Austin, TX",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6135714004?gh_jid=6135714004",
       "category": "humanoid_legged",
       "level": "experienced",
       "source": "greenhouse",
