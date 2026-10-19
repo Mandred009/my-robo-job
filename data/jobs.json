@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T16:11:08Z",
+  "generated_at": "2026-10-19T18:52:33Z",
   "jobs": [
     {
       "id": "greenhouse-andurilindustries-5241352007",
@@ -22,7 +22,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-19",
       "first_seen": "2026-10-14"
     },
     {
@@ -58,7 +58,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-19",
       "first_seen": "2026-10-14"
     },
     {
@@ -70,7 +70,7 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-19",
       "first_seen": "2026-10-14"
     },
     {
@@ -86,16 +86,16 @@
       "first_seen": "2026-10-16"
     },
     {
-      "id": "greenhouse-andurilindustries-5261560007",
+      "id": "greenhouse-andurilindustries-5123989007",
       "company": "Anduril Industries",
-      "title": "Senior Product Designer, Mission Autonomy",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261560007?gh_jid=5261560007",
+      "title": "Senior Mechatronics Engineer",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5123989007?gh_jid=5123989007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-10-15",
-      "first_seen": "2026-10-15"
+      "posted_at": "2026-10-19",
+      "first_seen": "2026-10-19"
     },
     {
       "id": "greenhouse-andurilindustries-5158219007",
@@ -103,6 +103,18 @@
       "title": "Senior Product Designer, Mission Autonomy",
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5158219007?gh_jid=5158219007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-10-15",
+      "first_seen": "2026-10-15"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5261560007",
+      "company": "Anduril Industries",
+      "title": "Senior Product Designer, Mission Autonomy",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261560007?gh_jid=5261560007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -122,16 +134,40 @@
       "first_seen": "2026-10-17"
     },
     {
-      "id": "greenhouse-andurilindustries-5121816007",
+      "id": "greenhouse-andurilindustries-4925059007",
       "company": "Anduril Industries",
-      "title": "Staff Robotics Software Engineer, Tracking & Fusion",
+      "title": "Senior Technical Program Manager, Hardware Robotics, Air Dominance & Strike",
       "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5121816007?gh_jid=5121816007",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4925059007?gh_jid=4925059007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-10-15",
-      "first_seen": "2026-10-16"
+      "posted_at": "2026-10-19",
+      "first_seen": "2026-10-19"
+    },
+    {
+      "id": "greenhouse-andurilindustries-4695037007",
+      "company": "Anduril Industries",
+      "title": "Staff Technical Program Manager, Hardware Robotics, Air Dominance & Strike",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4695037007?gh_jid=4695037007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-10-19",
+      "first_seen": "2026-10-19"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5212880007",
+      "company": "Anduril Industries",
+      "title": "Technical Writer, Autonomous Airpower",
+      "location": "Ashville, Ohio, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212880007?gh_jid=5212880007",
+      "category": "defense_public_safety",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-10-19",
+      "first_seen": "2026-10-19"
     },
     {
       "id": "greenhouse-apptronik-6119223004",
