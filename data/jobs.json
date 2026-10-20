@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:52:33Z",
+  "generated_at": "2026-10-20T17:36:01Z",
   "jobs": [
     {
       "id": "greenhouse-andurilindustries-5241352007",
@@ -94,20 +94,8 @@
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-10-19",
+      "posted_at": "2026-10-20",
       "first_seen": "2026-10-19"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5158219007",
-      "company": "Anduril Industries",
-      "title": "Senior Product Designer, Mission Autonomy",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5158219007?gh_jid=5158219007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-10-15",
-      "first_seen": "2026-10-15"
     },
     {
       "id": "greenhouse-andurilindustries-5261560007",
@@ -115,6 +103,18 @@
       "title": "Senior Product Designer, Mission Autonomy",
       "location": "Washington, District of Columbia, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261560007?gh_jid=5261560007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-10-15",
+      "first_seen": "2026-10-15"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5158219007",
+      "company": "Anduril Industries",
+      "title": "Senior Product Designer, Mission Autonomy",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5158219007?gh_jid=5158219007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -132,6 +132,18 @@
       "source": "greenhouse",
       "posted_at": "2026-10-16",
       "first_seen": "2026-10-17"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5267923007",
+      "company": "Anduril Industries",
+      "title": "Senior Software Engineer, Mission Perception, Planning, and Operations",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5267923007?gh_jid=5267923007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-10-20",
+      "first_seen": "2026-10-20"
     },
     {
       "id": "greenhouse-andurilindustries-4925059007",
@@ -362,17 +374,17 @@
       "first_seen": "2026-09-13"
     },
     {
-      "id": "aggregator-dddcc6875588",
-      "company": "Blue Origin",
-      "title": "Robotics Engineer 1",
-      "location": "Washington",
-      "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Robotics-Engineer-I_R73861",
+      "id": "aggregator-e46800ad07c8",
+      "company": "NVIDIA",
+      "title": "Technical Product Marketing Engineer - Robotics Simulation",
+      "location": "Santa Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Robotics-Simulation---New-College-Grad-2027_JR2027742",
       "category": "manipulation_research",
       "level": "unspecified",
       "source": "aggregator:simplifyjobs-newgrad",
       "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
-      "posted_at": "2026-10-12",
-      "first_seen": "2026-10-13"
+      "posted_at": "2026-10-19",
+      "first_seen": "2026-10-20"
     },
     {
       "id": "aggregator-57287759ae7e",
