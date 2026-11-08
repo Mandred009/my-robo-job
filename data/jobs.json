@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T17:53:30Z",
+  "generated_at": "2026-11-08T18:08:07Z",
   "jobs": [
     {
       "id": "greenhouse-andurilindustries-4802276007",
@@ -1762,7 +1762,7 @@
       "category": "manipulation_research",
       "level": "entry",
       "source": "workday",
-      "posted_at": "Posted 8 Days Ago",
+      "posted_at": "Posted 9 Days Ago",
       "first_seen": "2026-09-13"
     },
     {
@@ -1777,6 +1777,19 @@
       "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
       "posted_at": "2026-11-04",
       "first_seen": "2026-11-04"
+    },
+    {
+      "id": "aggregator-cb2f6a27bfb6",
+      "company": "Artificial Analysis",
+      "title": "Robotics Research Assistant",
+      "location": "SF",
+      "url": "https://jobs.ashbyhq.com/artificialanalysis/45f1b5ed-b508-4a4e-8f5f-fdaacb1bac8f/application?embed=true",
+      "category": "manipulation_research",
+      "level": "unspecified",
+      "source": "aggregator:simplifyjobs-newgrad",
+      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
+      "posted_at": "2026-11-07",
+      "first_seen": "2026-11-08"
     },
     {
       "id": "greenhouse-skildai-careers-5473817008",
