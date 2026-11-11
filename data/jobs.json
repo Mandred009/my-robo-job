@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T20:04:09Z",
+  "generated_at": "2026-11-11T19:54:27Z",
   "jobs": [
     {
       "id": "greenhouse-andurilindustries-5213087007",
@@ -26,30 +26,6 @@
       "first_seen": "2026-11-05"
     },
     {
-      "id": "greenhouse-andurilindustries-5235461007",
-      "company": "Anduril Industries",
-      "title": "Mission Autonomy Lead - Thunder",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5235461007?gh_jid=5235461007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-11-03",
-      "first_seen": "2026-10-16"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5269855007",
-      "company": "Anduril Industries",
-      "title": "Mission Systems Program Manager, Autonomous Airpower ",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269855007?gh_jid=5269855007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-11-03",
-      "first_seen": "2026-11-04"
-    },
-    {
       "id": "greenhouse-andurilindustries-5176745007",
       "company": "Anduril Industries",
       "title": "Product Sourcing Engineer, Autonomous Airpower",
@@ -59,18 +35,6 @@
       "level": "unspecified",
       "source": "greenhouse",
       "posted_at": "2026-11-08",
-      "first_seen": "2026-10-22"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5196757007",
-      "company": "Anduril Industries",
-      "title": "Robotics Software Engineer - Undersea Dominance ",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5196757007?gh_jid=5196757007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-11-03",
       "first_seen": "2026-10-22"
     },
     {
@@ -158,16 +122,28 @@
       "first_seen": "2026-10-22"
     },
     {
-      "id": "greenhouse-andurilindustries-5238203007",
+      "id": "greenhouse-andurilindustries-5215557007",
       "company": "Anduril Industries",
-      "title": "Sr. Technical Writer, Mission Autonomy",
-      "location": "Santa Ana, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5238203007?gh_jid=5238203007",
+      "title": "Senior Technical Program Manager, Release, Mission Autonomy",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215557007?gh_jid=5215557007",
       "category": "defense_public_safety",
-      "level": "unspecified",
+      "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-11-03",
-      "first_seen": "2026-10-21"
+      "posted_at": "2026-11-10",
+      "first_seen": "2026-11-11"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5215566007",
+      "company": "Anduril Industries",
+      "title": "Senior Technical Program Manager, Release, Mission Autonomy",
+      "location": "Seattle, Washington, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215566007?gh_jid=5215566007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-11-10",
+      "first_seen": "2026-11-11"
     },
     {
       "id": "greenhouse-andurilindustries-5281199007",
@@ -182,27 +158,27 @@
       "first_seen": "2026-11-06"
     },
     {
-      "id": "greenhouse-andurilindustries-5283862007",
+      "id": "greenhouse-andurilindustries-5283760007",
+      "company": "Anduril Industries",
+      "title": "Systems Engineering Program Manager, Autonomous Airpower",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283760007?gh_jid=5283760007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-11-10",
+      "first_seen": "2026-11-11"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5283858007",
       "company": "Anduril Industries",
       "title": "Technical Writer, Autonomous Airpower",
       "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283862007?gh_jid=5283862007",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283858007?gh_jid=5283858007",
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
       "posted_at": "2026-11-10",
-      "first_seen": "2026-11-04"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5283876007",
-      "company": "Anduril Industries",
-      "title": "Technical Writer, Autonomous Airpower",
-      "location": "Ashville, Ohio, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283876007?gh_jid=5283876007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-11-03",
       "first_seen": "2026-11-04"
     },
     {
@@ -218,23 +194,11 @@
       "first_seen": "2026-11-04"
     },
     {
-      "id": "greenhouse-andurilindustries-5091503007",
+      "id": "greenhouse-andurilindustries-5283862007",
       "company": "Anduril Industries",
       "title": "Technical Writer, Autonomous Airpower",
       "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5091503007?gh_jid=5091503007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-11-10",
-      "first_seen": "2026-10-21"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5283858007",
-      "company": "Anduril Industries",
-      "title": "Technical Writer, Autonomous Airpower",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283858007?gh_jid=5283858007",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283862007?gh_jid=5283862007",
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
@@ -254,16 +218,28 @@
       "first_seen": "2026-10-19"
     },
     {
-      "id": "greenhouse-apptronik-6119223004",
-      "company": "Apptronik",
-      "title": " Senior Product Manager, Perception and Navigation",
-      "location": "Sunnyvale, California",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/6119223004?gh_jid=6119223004",
-      "category": "humanoid_legged",
+      "id": "greenhouse-andurilindustries-5091503007",
+      "company": "Anduril Industries",
+      "title": "Technical Writer, Autonomous Airpower",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5091503007?gh_jid=5091503007",
+      "category": "defense_public_safety",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-11-10",
+      "first_seen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5271601007",
+      "company": "Anduril Industries",
+      "title": "Test Program Manager, Autonomous Airpower ",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271601007?gh_jid=5271601007",
+      "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-11-03",
-      "first_seen": "2026-10-29"
+      "posted_at": "2026-11-10",
+      "first_seen": "2026-11-11"
     },
     {
       "id": "greenhouse-apptronik-6226572004",
@@ -290,30 +266,6 @@
       "first_seen": "2026-10-24"
     },
     {
-      "id": "greenhouse-apptronik-6017584004",
-      "company": "Apptronik",
-      "title": "Senior Product Manager - Human Robot Interaction",
-      "location": "Austin, TX",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/6017584004?gh_jid=6017584004",
-      "category": "humanoid_legged",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-11-03",
-      "first_seen": "2026-10-29"
-    },
-    {
-      "id": "greenhouse-apptronik-6240627004",
-      "company": "Apptronik",
-      "title": "Software Engineer - Humanoid Sim-to-Real",
-      "location": "Austin, TX",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/6240627004?gh_jid=6240627004",
-      "category": "humanoid_legged",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-11-03",
-      "first_seen": "2026-11-03"
-    },
-    {
       "id": "workday-nvidia-/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473",
       "company": "NVIDIA",
       "title": "Research Scientist, Robotics Research -  PhD New College Grad 2026",
@@ -322,7 +274,7 @@
       "category": "manipulation_research",
       "level": "entry",
       "source": "workday",
-      "posted_at": "Posted 11 Days Ago",
+      "posted_at": "Posted 12 Days Ago",
       "first_seen": "2026-09-13"
     },
     {
@@ -350,6 +302,19 @@
       "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
       "posted_at": "2026-11-08",
       "first_seen": "2026-11-09"
+    },
+    {
+      "id": "aggregator-dca6a3d6287d",
+      "company": "Shield AI",
+      "title": "Engineer 1 New Grad - Software - Autonomous Pilot Integration",
+      "location": "Washington, DC",
+      "url": "https://jobs.ashbyhq.com/shield/29917792-e504-4cb5-9e70-9d74212d3b1f/application?embed=true",
+      "category": "manipulation_research",
+      "level": "entry",
+      "source": "aggregator:simplifyjobs-newgrad",
+      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
+      "posted_at": "2026-11-08",
+      "first_seen": "2026-11-11"
     },
     {
       "id": "aggregator-4b1da6973e66",
@@ -391,6 +356,19 @@
       "first_seen": "2026-11-09"
     },
     {
+      "id": "aggregator-eeb69f325c5f",
+      "company": "Shield AI",
+      "title": "Engineer 1 New Grad - Software - Perception",
+      "location": "Washington, DC",
+      "url": "https://jobs.ashbyhq.com/shield/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7/application?embed=true",
+      "category": "manipulation_research",
+      "level": "entry",
+      "source": "aggregator:simplifyjobs-newgrad",
+      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
+      "posted_at": "2026-11-08",
+      "first_seen": "2026-11-11"
+    },
+    {
       "id": "aggregator-dc92860590ca",
       "company": "Shield AI",
       "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
@@ -404,17 +382,17 @@
       "first_seen": "2026-11-09"
     },
     {
-      "id": "aggregator-e8b9ced1e6bf",
-      "company": "ALTEN Technology",
-      "title": "Robotics Lab Technician",
-      "location": "Wilmington, MA",
-      "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5286844007",
+      "id": "aggregator-5a3f420640d5",
+      "company": "Shield AI",
+      "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
+      "location": "United States",
+      "url": "https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
       "category": "manipulation_research",
-      "level": "unspecified",
+      "level": "entry",
       "source": "aggregator:simplifyjobs-newgrad",
       "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
-      "posted_at": "2026-11-06",
-      "first_seen": "2026-11-10"
+      "posted_at": "2026-11-08",
+      "first_seen": "2026-11-11"
     },
     {
       "id": "aggregator-94445353c301",
@@ -443,6 +421,19 @@
       "first_seen": "2026-11-08"
     },
     {
+      "id": "aggregator-4cacaf764811",
+      "company": "Avride",
+      "title": "Hardware Integration Technician - Autonomous Systems",
+      "location": "Dallas, TX",
+      "url": "https://job-boards.greenhouse.io/avride/jobs/4489343009",
+      "category": "manipulation_research",
+      "level": "unspecified",
+      "source": "aggregator:simplifyjobs-newgrad",
+      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
+      "posted_at": "2026-11-10",
+      "first_seen": "2026-11-11"
+    },
+    {
       "id": "aggregator-78b8afc5368c",
       "company": "Rocket Lab Corporation",
       "title": "Software Engineer 1 - Robotics",
@@ -454,6 +445,19 @@
       "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
       "posted_at": "2026-11-09",
       "first_seen": "2026-11-10"
+    },
+    {
+      "id": "aggregator-5cdd190b69f9",
+      "company": "Shield AI",
+      "title": "Perception Engineer - Multimodal & Embodied AI",
+      "location": "San Diego, CA",
+      "url": "https://jobs.ashbyhq.com/shield/99726ac8-75b2-4719-b0ea-e470cda3148b/application?embed=true",
+      "category": "manipulation_research",
+      "level": "unspecified",
+      "source": "aggregator:simplifyjobs-newgrad",
+      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
+      "posted_at": "2026-11-10",
+      "first_seen": "2026-11-11"
     },
     {
       "id": "greenhouse-skildai-careers-5473817008",
