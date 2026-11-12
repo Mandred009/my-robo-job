@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-11T19:54:27Z",
+  "generated_at": "2026-11-12T20:30:43Z",
   "jobs": [
+    {
+      "id": "greenhouse-andurilindustries-5293840007",
+      "company": "Anduril Industries",
+      "title": "Director, Test & Evaluation, Robotics",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5293840007?gh_jid=5293840007",
+      "category": "defense_public_safety",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-11-12",
+      "first_seen": "2026-11-12"
+    },
     {
       "id": "greenhouse-andurilindustries-5213087007",
       "company": "Anduril Industries",
@@ -122,11 +134,11 @@
       "first_seen": "2026-10-22"
     },
     {
-      "id": "greenhouse-andurilindustries-5215557007",
+      "id": "greenhouse-andurilindustries-5215566007",
       "company": "Anduril Industries",
       "title": "Senior Technical Program Manager, Release, Mission Autonomy",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215557007?gh_jid=5215557007",
+      "location": "Seattle, Washington, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215566007?gh_jid=5215566007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -134,11 +146,11 @@
       "first_seen": "2026-11-11"
     },
     {
-      "id": "greenhouse-andurilindustries-5215566007",
+      "id": "greenhouse-andurilindustries-5215557007",
       "company": "Anduril Industries",
       "title": "Senior Technical Program Manager, Release, Mission Autonomy",
-      "location": "Seattle, Washington, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215566007?gh_jid=5215566007",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215557007?gh_jid=5215557007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -170,16 +182,16 @@
       "first_seen": "2026-11-11"
     },
     {
-      "id": "greenhouse-andurilindustries-5283858007",
+      "id": "greenhouse-andurilindustries-5212880007",
       "company": "Anduril Industries",
       "title": "Technical Writer, Autonomous Airpower",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283858007?gh_jid=5283858007",
+      "location": "Ashville, Ohio, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212880007?gh_jid=5212880007",
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
       "posted_at": "2026-11-10",
-      "first_seen": "2026-11-04"
+      "first_seen": "2026-10-19"
     },
     {
       "id": "greenhouse-andurilindustries-5283877007",
@@ -194,28 +206,16 @@
       "first_seen": "2026-11-04"
     },
     {
-      "id": "greenhouse-andurilindustries-5283862007",
+      "id": "greenhouse-andurilindustries-5283858007",
       "company": "Anduril Industries",
       "title": "Technical Writer, Autonomous Airpower",
       "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283862007?gh_jid=5283862007",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283858007?gh_jid=5283858007",
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
       "posted_at": "2026-11-10",
       "first_seen": "2026-11-04"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5212880007",
-      "company": "Anduril Industries",
-      "title": "Technical Writer, Autonomous Airpower",
-      "location": "Ashville, Ohio, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212880007?gh_jid=5212880007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-11-10",
-      "first_seen": "2026-10-19"
     },
     {
       "id": "greenhouse-andurilindustries-5091503007",
@@ -228,6 +228,18 @@
       "source": "greenhouse",
       "posted_at": "2026-11-10",
       "first_seen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5283862007",
+      "company": "Anduril Industries",
+      "title": "Technical Writer, Autonomous Airpower",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283862007?gh_jid=5283862007",
+      "category": "defense_public_safety",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-11-10",
+      "first_seen": "2026-11-04"
     },
     {
       "id": "greenhouse-andurilindustries-5271601007",
@@ -274,7 +286,7 @@
       "category": "manipulation_research",
       "level": "entry",
       "source": "workday",
-      "posted_at": "Posted 12 Days Ago",
+      "posted_at": "Posted 13 Days Ago",
       "first_seen": "2026-09-13"
     },
     {
@@ -369,6 +381,97 @@
       "first_seen": "2026-11-11"
     },
     {
+      "id": "aggregator-dd931cc62a4b",
+      "company": "Shield AI",
+      "title": "Engineer 2 New Grad - Software - Autonomous Pilot Integration",
+      "location": "Washington, DC",
+      "url": "https://jobs.lever.co/shieldai/d2beda9f-f7f1-46ca-86d6-5bbbd52fbe50/apply",
+      "category": "manipulation_research",
+      "level": "entry",
+      "source": "aggregator:simplifyjobs-newgrad",
+      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
+      "posted_at": "2026-11-11",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "aggregator-2871a37e0c7c",
+      "company": "Shield AI",
+      "title": "Engineer 2 New Grad - Software - Autonomous Pilot Integration",
+      "location": "Washington, DC",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a97fe80e-3ff6-427c-8789-2a7480326bc3/application?embed=true",
+      "category": "manipulation_research",
+      "level": "entry",
+      "source": "aggregator:simplifyjobs-newgrad",
+      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
+      "posted_at": "2026-11-11",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "aggregator-84b8bbe95082",
+      "company": "Shield AI",
+      "title": "Engineer 2 New Grad - Software - Autonomous Pilot Integration",
+      "location": "Washington, DC",
+      "url": "https://jobs.ashbyhq.com/shield/a97fe80e-3ff6-427c-8789-2a7480326bc3/application?embed=true",
+      "category": "manipulation_research",
+      "level": "entry",
+      "source": "aggregator:simplifyjobs-newgrad",
+      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
+      "posted_at": "2026-11-11",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "aggregator-7661a7bd07c3",
+      "company": "Shield AI",
+      "title": "Engineer 2 New Grad - Software - Autonomy Capabilities",
+      "location": "United States",
+      "url": "https://jobs.lever.co/shieldai/d2050861-fd48-4ac6-9606-e1e502a817af/apply",
+      "category": "manipulation_research",
+      "level": "entry",
+      "source": "aggregator:simplifyjobs-newgrad",
+      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
+      "posted_at": "2026-11-11",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "aggregator-b20ff0af786f",
+      "company": "Shield AI",
+      "title": "Engineer 2 New Grad - Software - Perception",
+      "location": "United States",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
+      "category": "manipulation_research",
+      "level": "entry",
+      "source": "aggregator:simplifyjobs-newgrad",
+      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
+      "posted_at": "2026-11-11",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "aggregator-6286511e99e6",
+      "company": "Shield AI",
+      "title": "Engineer 2 New Grad - Software - Perception",
+      "location": "United States",
+      "url": "https://jobs.lever.co/shieldai/9017c8c2-2668-45d6-aff5-a7e348107c12/apply",
+      "category": "manipulation_research",
+      "level": "entry",
+      "source": "aggregator:simplifyjobs-newgrad",
+      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
+      "posted_at": "2026-11-12",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "aggregator-a9fb599d5943",
+      "company": "Shield AI",
+      "title": "Engineer 2 New Grad - Software - Perception",
+      "location": "United States",
+      "url": "https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
+      "category": "manipulation_research",
+      "level": "entry",
+      "source": "aggregator:simplifyjobs-newgrad",
+      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
+      "posted_at": "2026-11-11",
+      "first_seen": "2026-11-12"
+    },
+    {
       "id": "aggregator-dc92860590ca",
       "company": "Shield AI",
       "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
@@ -395,17 +498,17 @@
       "first_seen": "2026-11-11"
     },
     {
-      "id": "aggregator-94445353c301",
-      "company": "Analog Devices",
-      "title": "Field Robotics Systems Engineer",
+      "id": "aggregator-a7ef28ad1bf2",
+      "company": "Symbotic",
+      "title": "Robotics Software Engineer New Grad",
       "location": "Wilmington, MA",
-      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Field-Robotics-Systems-Engineer_R266640",
+      "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496",
       "category": "manipulation_research",
-      "level": "unspecified",
+      "level": "entry",
       "source": "aggregator:simplifyjobs-newgrad",
       "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
-      "posted_at": "2026-11-04",
-      "first_seen": "2026-11-04"
+      "posted_at": "2026-11-11",
+      "first_seen": "2026-11-12"
     },
     {
       "id": "aggregator-cb2f6a27bfb6",
@@ -460,16 +563,17 @@
       "first_seen": "2026-11-11"
     },
     {
-      "id": "greenhouse-skildai-careers-5473817008",
-      "company": "Skild AI",
-      "title": "Robotics Systems Engineer",
-      "location": "San Mateo, CA",
-      "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/5473817008",
+      "id": "aggregator-1f3db90255bf",
+      "company": "WME Express",
+      "title": "Robotics Data Collection Operator",
+      "location": "San Carlos, CA",
+      "url": "https://wmeexpress.applytojob.com/apply/k9CWwYbRvW/Vehicle-Data-Collector-Robotic",
       "category": "manipulation_research",
       "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-11-04",
-      "first_seen": "2026-11-05"
+      "source": "aggregator:simplifyjobs-newgrad",
+      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
+      "posted_at": "2026-11-12",
+      "first_seen": "2026-11-12"
     },
     {
       "id": "aggregator-5be36043e0aa",
