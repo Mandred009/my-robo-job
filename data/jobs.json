@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T18:33:20Z",
+  "generated_at": "2026-11-15T19:09:46Z",
   "jobs": [
     {
       "id": "greenhouse-andurilindustries-5293840007",
@@ -98,18 +98,6 @@
       "first_seen": "2026-10-19"
     },
     {
-      "id": "greenhouse-andurilindustries-5283858007",
-      "company": "Anduril Industries",
-      "title": "Technical Writer, Autonomous Airpower",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283858007?gh_jid=5283858007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-11-10",
-      "first_seen": "2026-11-04"
-    },
-    {
       "id": "greenhouse-andurilindustries-5091503007",
       "company": "Anduril Industries",
       "title": "Technical Writer, Autonomous Airpower",
@@ -122,11 +110,11 @@
       "first_seen": "2026-10-21"
     },
     {
-      "id": "greenhouse-andurilindustries-5283877007",
+      "id": "greenhouse-andurilindustries-5283862007",
       "company": "Anduril Industries",
       "title": "Technical Writer, Autonomous Airpower",
-      "location": "Ashville, Ohio, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283877007?gh_jid=5283877007",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283862007?gh_jid=5283862007",
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
@@ -134,11 +122,23 @@
       "first_seen": "2026-11-04"
     },
     {
-      "id": "greenhouse-andurilindustries-5283862007",
+      "id": "greenhouse-andurilindustries-5283858007",
       "company": "Anduril Industries",
       "title": "Technical Writer, Autonomous Airpower",
       "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283862007?gh_jid=5283862007",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283858007?gh_jid=5283858007",
+      "category": "defense_public_safety",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-11-10",
+      "first_seen": "2026-11-04"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5283877007",
+      "company": "Anduril Industries",
+      "title": "Technical Writer, Autonomous Airpower",
+      "location": "Ashville, Ohio, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283877007?gh_jid=5283877007",
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
@@ -166,7 +166,7 @@
       "category": "manipulation_research",
       "level": "entry",
       "source": "workday",
-      "posted_at": "Posted 15 Days Ago",
+      "posted_at": "Posted 16 Days Ago",
       "first_seen": "2026-09-13"
     },
     {
@@ -248,58 +248,6 @@
       "first_seen": "2026-11-12"
     },
     {
-      "id": "aggregator-b20ff0af786f",
-      "company": "Shield AI",
-      "title": "Engineer 2 New Grad - Software - Perception",
-      "location": "United States",
-      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
-      "category": "manipulation_research",
-      "level": "entry",
-      "source": "aggregator:simplifyjobs-newgrad",
-      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
-      "posted_at": "2026-11-11",
-      "first_seen": "2026-11-12"
-    },
-    {
-      "id": "aggregator-a9fb599d5943",
-      "company": "Shield AI",
-      "title": "Engineer 2 New Grad - Software - Perception",
-      "location": "United States",
-      "url": "https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
-      "category": "manipulation_research",
-      "level": "entry",
-      "source": "aggregator:simplifyjobs-newgrad",
-      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
-      "posted_at": "2026-11-11",
-      "first_seen": "2026-11-12"
-    },
-    {
-      "id": "aggregator-dc92860590ca",
-      "company": "Shield AI",
-      "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
-      "location": "United States",
-      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
-      "category": "manipulation_research",
-      "level": "entry",
-      "source": "aggregator:simplifyjobs-newgrad",
-      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
-      "posted_at": "2026-11-08",
-      "first_seen": "2026-11-09"
-    },
-    {
-      "id": "aggregator-5a3f420640d5",
-      "company": "Shield AI",
-      "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
-      "location": "United States",
-      "url": "https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
-      "category": "manipulation_research",
-      "level": "entry",
-      "source": "aggregator:simplifyjobs-newgrad",
-      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
-      "posted_at": "2026-11-08",
-      "first_seen": "2026-11-11"
-    },
-    {
       "id": "aggregator-a7ef28ad1bf2",
       "company": "Symbotic",
       "title": "Robotics Software Engineer New Grad",
@@ -311,19 +259,6 @@
       "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
       "posted_at": "2026-11-11",
       "first_seen": "2026-11-12"
-    },
-    {
-      "id": "aggregator-cb2f6a27bfb6",
-      "company": "Artificial Analysis",
-      "title": "Robotics Research Assistant",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/artificialanalysis/45f1b5ed-b508-4a4e-8f5f-fdaacb1bac8f/application?embed=true",
-      "category": "manipulation_research",
-      "level": "unspecified",
-      "source": "aggregator:simplifyjobs-newgrad",
-      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
-      "posted_at": "2026-11-07",
-      "first_seen": "2026-11-08"
     },
     {
       "id": "aggregator-4cacaf764811",
@@ -363,6 +298,18 @@
       "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
       "posted_at": "2026-11-14",
       "first_seen": "2026-11-14"
+    },
+    {
+      "id": "ashby-physicalintelligence-b0de3fd2-fb06-48d4-adf9-c7964e1cbc55",
+      "company": "Physical Intelligence",
+      "title": "Robot Service Technician Shift Lead",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/physicalintelligence/b0de3fd2-fb06-48d4-adf9-c7964e1cbc55",
+      "category": "manipulation_research",
+      "level": "experienced",
+      "source": "ashby",
+      "posted_at": "2026-11-14",
+      "first_seen": "2026-11-15"
     },
     {
       "id": "aggregator-5cdd190b69f9",
