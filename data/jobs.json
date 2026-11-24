@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T00:26:41Z",
+  "generated_at": "2026-11-24T22:48:59Z",
   "jobs": [
     {
       "id": "greenhouse-andurilindustries-5206291007",
@@ -50,6 +50,18 @@
       "first_seen": "2026-11-17"
     },
     {
+      "id": "greenhouse-andurilindustries-5047469007",
+      "company": "Anduril Industries",
+      "title": "Robotics Software Engineer, Maneuver Dominance ",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5047469007?gh_jid=5047469007",
+      "category": "defense_public_safety",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-11-23",
+      "first_seen": "2026-11-24"
+    },
+    {
       "id": "greenhouse-andurilindustries-5294748007",
       "company": "Anduril Industries",
       "title": "Senior Airworthiness Engineer - Autonomous Airpower",
@@ -98,11 +110,11 @@
       "first_seen": "2026-11-17"
     },
     {
-      "id": "greenhouse-andurilindustries-5186322007",
+      "id": "greenhouse-andurilindustries-5247298007",
       "company": "Anduril Industries",
       "title": "Senior Software Engineer, Robotics Data Foundation (Cloud)",
-      "location": "Boston, Massachusetts, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5186322007?gh_jid=5186322007",
+      "location": "Seattle, Washington, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5247298007?gh_jid=5247298007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -110,11 +122,11 @@
       "first_seen": "2026-11-17"
     },
     {
-      "id": "greenhouse-andurilindustries-5247298007",
+      "id": "greenhouse-andurilindustries-5186322007",
       "company": "Anduril Industries",
       "title": "Senior Software Engineer, Robotics Data Foundation (Cloud)",
-      "location": "Seattle, Washington, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5247298007?gh_jid=5247298007",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5186322007?gh_jid=5186322007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
@@ -144,30 +156,6 @@
       "source": "greenhouse",
       "posted_at": "2026-11-17",
       "first_seen": "2026-11-17"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5283876007",
-      "company": "Anduril Industries",
-      "title": "Technical Writer, Autonomous Airpower",
-      "location": "Ashville, Ohio, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283876007?gh_jid=5283876007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-11-19",
-      "first_seen": "2026-11-19"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5212880007",
-      "company": "Anduril Industries",
-      "title": "Technical Writer, Autonomous Airpower",
-      "location": "Ashville, Ohio, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212880007?gh_jid=5212880007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-11-19",
-      "first_seen": "2026-11-19"
     },
     {
       "id": "greenhouse-andurilindustries-5283862007",
@@ -206,11 +194,35 @@
       "first_seen": "2026-11-19"
     },
     {
+      "id": "greenhouse-andurilindustries-5283876007",
+      "company": "Anduril Industries",
+      "title": "Technical Writer, Autonomous Airpower",
+      "location": "Ashville, Ohio, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283876007?gh_jid=5283876007",
+      "category": "defense_public_safety",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-11-19",
+      "first_seen": "2026-11-19"
+    },
+    {
       "id": "greenhouse-andurilindustries-5283877007",
       "company": "Anduril Industries",
       "title": "Technical Writer, Autonomous Airpower",
       "location": "Ashville, Ohio, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283877007?gh_jid=5283877007",
+      "category": "defense_public_safety",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-11-19",
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5212880007",
+      "company": "Anduril Industries",
+      "title": "Technical Writer, Autonomous Airpower",
+      "location": "Ashville, Ohio, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212880007?gh_jid=5212880007",
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
@@ -226,7 +238,7 @@
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
-      "posted_at": "2026-11-23",
+      "posted_at": "2026-11-24",
       "first_seen": "2026-11-24"
     },
     {
@@ -264,6 +276,18 @@
       "source": "greenhouse",
       "posted_at": "2026-11-19",
       "first_seen": "2026-11-19"
+    },
+    {
+      "id": "greenhouse-apptronik-6268151004",
+      "company": "Apptronik",
+      "title": "Senior Autonomy Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6268151004?gh_jid=6268151004",
+      "category": "humanoid_legged",
+      "level": "experienced",
+      "source": "greenhouse",
+      "posted_at": "2026-11-24",
+      "first_seen": "2026-11-24"
     },
     {
       "id": "greenhouse-apptronik-6225394004",
@@ -322,7 +346,7 @@
       "category": "manipulation_research",
       "level": "entry",
       "source": "workday",
-      "posted_at": "Posted 4 Days Ago",
+      "posted_at": "Posted 5 Days Ago",
       "first_seen": "2026-11-17"
     },
     {
@@ -350,19 +374,6 @@
       "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
       "posted_at": "2026-11-18",
       "first_seen": "2026-11-18"
-    },
-    {
-      "id": "aggregator-95633ef70249",
-      "company": "Applied Research Associates",
-      "title": "Autonomy Engineer",
-      "location": "Warrendale, PA",
-      "url": "https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=31bb25e4-a32f-485c-8659-e9409cc97d3a",
-      "category": "manipulation_research",
-      "level": "unspecified",
-      "source": "aggregator:simplifyjobs-newgrad",
-      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
-      "posted_at": "2026-11-20",
-      "first_seen": "2026-11-21"
     },
     {
       "id": "aggregator-3e21ab28d125",
