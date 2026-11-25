@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T22:48:59Z",
+  "generated_at": "2026-11-25T22:01:46Z",
   "jobs": [
     {
       "id": "greenhouse-andurilindustries-5206291007",
@@ -26,30 +26,6 @@
       "first_seen": "2026-11-19"
     },
     {
-      "id": "greenhouse-andurilindustries-5196757007",
-      "company": "Anduril Industries",
-      "title": "Robotics Software Engineer - Undersea Dominance ",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5196757007?gh_jid=5196757007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-11-17",
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5136146007",
-      "company": "Anduril Industries",
-      "title": "Robotics Software Engineer, ML",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136146007?gh_jid=5136146007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-11-17",
-      "first_seen": "2026-11-17"
-    },
-    {
       "id": "greenhouse-andurilindustries-5047469007",
       "company": "Anduril Industries",
       "title": "Robotics Software Engineer, Maneuver Dominance ",
@@ -62,16 +38,16 @@
       "first_seen": "2026-11-24"
     },
     {
-      "id": "greenhouse-andurilindustries-5294748007",
+      "id": "greenhouse-andurilindustries-5308138007",
       "company": "Anduril Industries",
-      "title": "Senior Airworthiness Engineer - Autonomous Airpower",
-      "location": "Remote",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5294748007?gh_jid=5294748007",
+      "title": "Senior Manager, Project Controls",
+      "location": "Ashville, Ohio, United States; Baltimore, Maryland, United States; Costa Mesa, California, United States; Washington, District of Columbia, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5308138007?gh_jid=5308138007",
       "category": "defense_public_safety",
       "level": "experienced",
       "source": "greenhouse",
-      "posted_at": "2026-11-17",
-      "first_seen": "2026-11-16"
+      "posted_at": "2026-11-25",
+      "first_seen": "2026-11-25"
     },
     {
       "id": "greenhouse-andurilindustries-5029717007",
@@ -83,18 +59,6 @@
       "level": "experienced",
       "source": "greenhouse",
       "posted_at": "2026-11-19",
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5196771007",
-      "company": "Anduril Industries",
-      "title": "Senior Robotics Engineer - Undersea Dominance",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5196771007?gh_jid=5196771007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-11-17",
       "first_seen": "2026-11-17"
     },
     {
@@ -110,78 +74,6 @@
       "first_seen": "2026-11-17"
     },
     {
-      "id": "greenhouse-andurilindustries-5247298007",
-      "company": "Anduril Industries",
-      "title": "Senior Software Engineer, Robotics Data Foundation (Cloud)",
-      "location": "Seattle, Washington, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5247298007?gh_jid=5247298007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-11-17",
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5186322007",
-      "company": "Anduril Industries",
-      "title": "Senior Software Engineer, Robotics Data Foundation (Cloud)",
-      "location": "Boston, Massachusetts, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5186322007?gh_jid=5186322007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-11-17",
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5247292007",
-      "company": "Anduril Industries",
-      "title": "Software Engineer, Robotics Data Foundation (Cloud)",
-      "location": "Boston, Massachusetts, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5247292007?gh_jid=5247292007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-11-17",
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5185965007",
-      "company": "Anduril Industries",
-      "title": "Software Engineer, Robotics Data Foundation (Cloud)",
-      "location": "Seattle, Washington, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5185965007?gh_jid=5185965007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-11-17",
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5283862007",
-      "company": "Anduril Industries",
-      "title": "Technical Writer, Autonomous Airpower",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283862007?gh_jid=5283862007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-11-19",
-      "first_seen": "2026-11-19"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5091503007",
-      "company": "Anduril Industries",
-      "title": "Technical Writer, Autonomous Airpower",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5091503007?gh_jid=5091503007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-11-18",
-      "first_seen": "2026-10-21"
-    },
-    {
       "id": "greenhouse-andurilindustries-5283858007",
       "company": "Anduril Industries",
       "title": "Technical Writer, Autonomous Airpower",
@@ -194,11 +86,11 @@
       "first_seen": "2026-11-19"
     },
     {
-      "id": "greenhouse-andurilindustries-5283876007",
+      "id": "greenhouse-andurilindustries-5283862007",
       "company": "Anduril Industries",
       "title": "Technical Writer, Autonomous Airpower",
-      "location": "Ashville, Ohio, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283876007?gh_jid=5283876007",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283862007?gh_jid=5283862007",
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
@@ -223,6 +115,30 @@
       "title": "Technical Writer, Autonomous Airpower",
       "location": "Ashville, Ohio, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212880007?gh_jid=5212880007",
+      "category": "defense_public_safety",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-11-19",
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5091503007",
+      "company": "Anduril Industries",
+      "title": "Technical Writer, Autonomous Airpower",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5091503007?gh_jid=5091503007",
+      "category": "defense_public_safety",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-11-18",
+      "first_seen": "2026-10-21"
+    },
+    {
+      "id": "greenhouse-andurilindustries-5283876007",
+      "company": "Anduril Industries",
+      "title": "Technical Writer, Autonomous Airpower",
+      "location": "Ashville, Ohio, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283876007?gh_jid=5283876007",
       "category": "defense_public_safety",
       "level": "unspecified",
       "source": "greenhouse",
@@ -278,6 +194,18 @@
       "first_seen": "2026-11-19"
     },
     {
+      "id": "greenhouse-apptronik-6239438004",
+      "company": "Apptronik",
+      "title": "Research Engineer - Dexterous Sim-to-Real",
+      "location": "Austin, TX",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6239438004?gh_jid=6239438004",
+      "category": "humanoid_legged",
+      "level": "unspecified",
+      "source": "greenhouse",
+      "posted_at": "2026-11-25",
+      "first_seen": "2026-11-25"
+    },
+    {
       "id": "greenhouse-apptronik-6268151004",
       "company": "Apptronik",
       "title": "Senior Autonomy Software Engineer",
@@ -326,18 +254,6 @@
       "first_seen": "2026-11-18"
     },
     {
-      "id": "greenhouse-apptronik-6264796004",
-      "company": "Apptronik",
-      "title": "Staff Technical Program Manager, Physical AI",
-      "location": "Sunnyvale, CA",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/6264796004?gh_jid=6264796004",
-      "category": "humanoid_legged",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-11-17",
-      "first_seen": "2026-11-18"
-    },
-    {
       "id": "workday-nvidia-/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473",
       "company": "NVIDIA",
       "title": "Research Scientist, Robotics Research -  PhD New College Grad 2026",
@@ -346,21 +262,8 @@
       "category": "manipulation_research",
       "level": "entry",
       "source": "workday",
-      "posted_at": "Posted 5 Days Ago",
+      "posted_at": "Posted Today",
       "first_seen": "2026-11-17"
-    },
-    {
-      "id": "aggregator-3aa73b04ef9a",
-      "company": "Amazon",
-      "title": "Robotics \u2013 Hardware Development Engineer",
-      "location": "North Reading, MA, Westborough, MA",
-      "url": "https://amazon.jobs/en/jobs/10607546/robotics-hardware-development-engineer",
-      "category": "manipulation_research",
-      "level": "unspecified",
-      "source": "aggregator:simplifyjobs-newgrad",
-      "source_display": "SimplifyJobs \u00b7 New-Grad-Positions",
-      "posted_at": "2026-11-17",
-      "first_seen": "2026-11-18"
     },
     {
       "id": "aggregator-499894266348",
