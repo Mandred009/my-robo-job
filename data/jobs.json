@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:59:51Z",
+  "generated_at": "2026-11-27T21:41:57Z",
   "jobs": [
     {
       "id": "greenhouse-andurilindustries-5047469007",
@@ -26,78 +26,6 @@
       "first_seen": "2026-11-25"
     },
     {
-      "id": "greenhouse-andurilindustries-5029717007",
-      "company": "Anduril Industries",
-      "title": "Senior Product Sourcing Engineer, Mission Autonomy",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5029717007?gh_jid=5029717007",
-      "category": "defense_public_safety",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-11-19",
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5283862007",
-      "company": "Anduril Industries",
-      "title": "Technical Writer, Autonomous Airpower",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283862007?gh_jid=5283862007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-11-19",
-      "first_seen": "2026-11-19"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5283858007",
-      "company": "Anduril Industries",
-      "title": "Technical Writer, Autonomous Airpower",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283858007?gh_jid=5283858007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-11-19",
-      "first_seen": "2026-11-19"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5283877007",
-      "company": "Anduril Industries",
-      "title": "Technical Writer, Autonomous Airpower",
-      "location": "Ashville, Ohio, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283877007?gh_jid=5283877007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-11-19",
-      "first_seen": "2026-11-19"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5212880007",
-      "company": "Anduril Industries",
-      "title": "Technical Writer, Autonomous Airpower",
-      "location": "Ashville, Ohio, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212880007?gh_jid=5212880007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-11-19",
-      "first_seen": "2026-11-19"
-    },
-    {
-      "id": "greenhouse-andurilindustries-5283876007",
-      "company": "Anduril Industries",
-      "title": "Technical Writer, Autonomous Airpower",
-      "location": "Ashville, Ohio, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283876007?gh_jid=5283876007",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-11-19",
-      "first_seen": "2026-11-19"
-    },
-    {
       "id": "greenhouse-andurilindustries-5302709007",
       "company": "Anduril Industries",
       "title": "Test & Evaluation Systems Integrator - Mission Autonomy",
@@ -108,42 +36,6 @@
       "source": "greenhouse",
       "posted_at": "2026-11-24",
       "first_seen": "2026-11-24"
-    },
-    {
-      "id": "ashby-graymatter-robotics-cdb08439-5846-4c47-ae77-37fdd9ea099d",
-      "company": "GrayMatter Robotics",
-      "title": "Robotics Applications Engineer: Activation and Support - Aerospace & Defense - Camden, AR",
-      "location": "Remote - USA",
-      "url": "https://jobs.ashbyhq.com/graymatter-robotics/cdb08439-5846-4c47-ae77-37fdd9ea099d",
-      "category": "defense_public_safety",
-      "level": "unspecified",
-      "source": "ashby",
-      "posted_at": "2026-11-19",
-      "first_seen": "2026-11-19"
-    },
-    {
-      "id": "greenhouse-apptronik-6266166004",
-      "company": "Apptronik",
-      "title": "Engineering Manager - Dexterous Manipulation",
-      "location": "Sunnyvale, CA",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/6266166004?gh_jid=6266166004",
-      "category": "humanoid_legged",
-      "level": "experienced",
-      "source": "greenhouse",
-      "posted_at": "2026-11-19",
-      "first_seen": "2026-11-20"
-    },
-    {
-      "id": "greenhouse-apptronik-6266502004",
-      "company": "Apptronik",
-      "title": "Manufacturing Test Engineer - Robotic Hands",
-      "location": "Austin, TX",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/6266502004?gh_jid=6266502004",
-      "category": "humanoid_legged",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-11-19",
-      "first_seen": "2026-11-19"
     },
     {
       "id": "greenhouse-apptronik-6239438004",
@@ -182,18 +74,6 @@
       "first_seen": "2026-11-21"
     },
     {
-      "id": "greenhouse-apptronik-6240627004",
-      "company": "Apptronik",
-      "title": "Software Engineer - Humanoid Sim-to-Real",
-      "location": "Austin, TX",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/6240627004?gh_jid=6240627004",
-      "category": "humanoid_legged",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-11-19",
-      "first_seen": "2026-11-19"
-    },
-    {
       "id": "greenhouse-apptronik-6264814004",
       "company": "Apptronik",
       "title": "Staff Technical Program Manager, Physical AI",
@@ -214,7 +94,7 @@
       "category": "manipulation_research",
       "level": "entry",
       "source": "workday",
-      "posted_at": "Posted Yesterday",
+      "posted_at": "Posted 2 Days Ago",
       "first_seen": "2026-11-17"
     },
     {
@@ -313,18 +193,6 @@
       "source": "greenhouse",
       "posted_at": "2026-11-20",
       "first_seen": "2026-11-21"
-    },
-    {
-      "id": "greenhouse-kodiak-4312761009",
-      "company": "Kodiak Robotics",
-      "title": "Software Engineer, Controls (C++) ",
-      "location": "Mountain View, CA",
-      "url": "https://job-boards.greenhouse.io/kodiak/jobs/4312761009",
-      "category": "other",
-      "level": "unspecified",
-      "source": "greenhouse",
-      "posted_at": "2026-11-19",
-      "first_seen": "2026-11-20"
     }
   ]
 }
